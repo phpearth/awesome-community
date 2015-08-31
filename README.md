@@ -24,10 +24,14 @@ Inspired by the `awesome-*` trend on GitHub.
 * Facebook:
 	* [Java group on Facebook](https://fb.com/groups/Javagroup123/)
 
+[Back to top](#awesome-community)
+
 
 ## JavaScript
 
 * [StackOverflow](http://stackoverflow.com/?tags=javascript) - ask and answer questions about JavaScript on StackOverflow
+
+[Back to top](#awesome-community)
 
 
 ## PHP
@@ -39,11 +43,15 @@ Inspired by the `awesome-*` trend on GitHub.
 * Google Plus:
   * [PHP Programmers](https://plus.google.com/u/0/communities/104245651975268426012)
 
+[Back to top](#awesome-community)
+
 
 ## Ruby
 
 * [StackOverflow](http://stackoverflow.com/?tags=ruby) - ask and answer questions about Ruby on StackOverflow
 * [Reddit](https://www.reddit.com/r/ruby)
+
+[Back to top](#awesome-community)
 
 
 ## Other Awesome Lists
@@ -53,6 +61,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [GetAwesomeness](http://getawesomeness.com/)
 * [lists](https://github.com/jnv/lists)
 
+[Back to top](#awesome-community)
+
 
 ## Contributing and License
 
@@ -61,3 +71,5 @@ You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community 
 Big thanks to all current [contributors](https://github.com/peterkokot/awesome-comunity/graphs/contributors) who have helped build this Awesome Community list.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). Feel free to create also your list if you find this one insufficient. However having everything in "one place" would be better for easier maintaining of the awesome-community list.
+
+[Back to top](#awesome-community)
