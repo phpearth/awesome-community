@@ -1,6 +1,4 @@
-# Awesome Community
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Community [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome programming, development and similar technical support or discussion channels, groups, communities, resources and other shiny things.
 
@@ -12,6 +10,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
+* [Python](#python)
 * [Ruby](#ruby)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
@@ -42,6 +41,16 @@ Inspired by the `awesome-*` trend on GitHub.
   * [World wide PHP group](https://fb.com/groups/2204685680)
 * Google Plus:
   * [PHP Programmers](https://plus.google.com/u/0/communities/104245651975268426012)
+
+[Back to top](#awesome-community)
+
+
+## Python
+
+* [StackOverflow](http://stackoverflow.com/?tags=python) - ask and answer questions about Python on StackOverflow
+* [Reddit](https://www.reddit.com/r/python)
+* Facebook
+	* [Python Programming Society](https://fb.com/groups/pythonears/)
 
 [Back to top](#awesome-community)
 
