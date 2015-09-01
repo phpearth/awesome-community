@@ -13,6 +13,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Python](#python)
 * [Ruby](#ruby)
 * [Swift](#swift)
+* [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
 
@@ -24,7 +25,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * Facebook:
 	* [Java group on Facebook](https://fb.com/groups/Javagroup123/)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## JavaScript
@@ -34,7 +35,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * Facebook:
 	* [JavaScript (Not Java)](https://fb.com/groups/JavaScript.Programming/)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## PHP
@@ -46,7 +47,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * Google Plus:
   * [PHP Programmers](https://plus.google.com/u/0/communities/104245651975268426012)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## Python
@@ -56,7 +57,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * Facebook
 	* [Python Programming Society](https://fb.com/groups/pythonears/)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## Ruby
@@ -64,7 +65,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [StackOverflow](http://stackoverflow.com/?tags=ruby) - ask and answer questions about Ruby on StackOverflow
 * [Reddit](https://www.reddit.com/r/ruby)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## Swift
@@ -72,7 +73,16 @@ Inspired by the `awesome-*` trend on GitHub.
 * [StackOverflow](http://stackoverflow.com/?tags=swift) - ask and answer questions about Swift on StackOverflow
 * [Reddit](https://www.reddit.com/r/swift)
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
+
+
+## Resources
+
+Some reading material how to build communities
+
+* [Brick by brick: Building awesome communities](http://www.communitybuildingguide.com/)
+
+[Back to top](#awesome-community-)
 
 
 ## Other Awesome Lists
@@ -81,8 +91,9 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [GetAwesomeness](http://getawesomeness.com/)
 * [lists](https://github.com/jnv/lists)
+* [awesome-community](https://github.com/rafaecheve/Awesome-Community) - Repository about how to build communities online
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
 
 
 ## Contributing and License
@@ -93,4 +104,4 @@ Big thanks to all current [contributors](https://github.com/peterkokot/awesome-c
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). Feel free to create also your list if you find this one insufficient. However having everything in "one place" would be better for easier maintaining of the awesome-community list.
 
-[Back to top](#awesome-community)
+[Back to top](#awesome-community-)
