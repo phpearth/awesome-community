@@ -80,7 +80,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 Some reading material how to build communities
 
-* [Brick by brick: Building awesome communities](http://www.communitybuildingguide.com/)
+* [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/)
+* [The Art of Community Online](http://www.artofcommunityonline.org/) - Book, Building the New Age of Participation, [PDF](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
 
 [Back to top](#awesome-community-)
 
