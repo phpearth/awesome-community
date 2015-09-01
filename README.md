@@ -12,6 +12,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Swift](#swift)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
 
@@ -29,6 +30,9 @@ Inspired by the `awesome-*` trend on GitHub.
 ## JavaScript
 
 * [StackOverflow](http://stackoverflow.com/?tags=javascript) - ask and answer questions about JavaScript on StackOverflow
+* [Reddit](https://www.reddit.com/r/JavaScript)
+* Facebook:
+	* [JavaScript (Not Java)](https://fb.com/groups/JavaScript.Programming/)
 
 [Back to top](#awesome-community)
 
@@ -59,6 +63,14 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [StackOverflow](http://stackoverflow.com/?tags=ruby) - ask and answer questions about Ruby on StackOverflow
 * [Reddit](https://www.reddit.com/r/ruby)
+
+[Back to top](#awesome-community)
+
+
+## Swift
+
+* [StackOverflow](http://stackoverflow.com/?tags=swift) - ask and answer questions about Swift on StackOverflow
+* [Reddit](https://www.reddit.com/r/swift)
 
 [Back to top](#awesome-community)
 
