@@ -10,6 +10,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
+    * [Symfony](#symfony)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Swift](#swift)
@@ -20,57 +21,73 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Java
 
-* [StackOverflow](http://stackoverflow.com/?tags=java) - ask and answer questions about Java on StackOverflow
-* [Reddit](http://www.reddit.com/r/java) - ask and answer questions about Java on StackOverflow
-* Facebook:
-	* [Java group on Facebook](https://fb.com/groups/Javagroup123/)
+* [Stack Overflow](http://stackoverflow.com/?tags=java)
+* [Reddit](http://www.reddit.com/r/java)
+* [Facebook](https://fb.com/groups/Javagroup123/)
+* [Google+](https://plus.google.com/communities/101399526652980913951)
 
 [Back to top](#awesome-community-)
 
 
 ## JavaScript
 
-* [StackOverflow](http://stackoverflow.com/?tags=javascript) - ask and answer questions about JavaScript on StackOverflow
-* [Reddit](https://www.reddit.com/r/JavaScript)
-* Facebook:
-	* [JavaScript (Not Java)](https://fb.com/groups/JavaScript.Programming/)
+* [Stack Overflow](http://stackoverflow.com/?tags=javascript) - Ask and answer questions about JavaScript
+* [Reddit](http://www.reddit.com/r/JavaScript)
+* [Facebook](https://fb.com/groups/JavaScript.Programming/)
+* [Google+](https://plus.google.com/communities/100875929141897651837)
 
 [Back to top](#awesome-community-)
 
 
 ## PHP
 
-* [StackOverflow](http://stackoverflow.com/?tags=php) - ask and answer questions about PHP on StackOverflow
-* [Reddit](http://www.reddit.com/r/PHP)
-* Facebook:
-  * [World wide PHP group](https://fb.com/groups/2204685680)
-* Google Plus:
-  * [PHP Programmers](https://plus.google.com/u/0/communities/104245651975268426012)
+* [Stack Overflow](http://stackoverflow.com/?tags=php) - PHP support on StackOverflow
+* [Reddit](http://www.reddit.com/r/PHP) - Ask and answer questions, discussion
+* [Facebook](https://fb.com/groups/2204685680) - large and active group on Facebook
+* [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active about PHP group on Google+
+* [Quora](https://www.quora.com/PHP-programming-language-1) - Ask and answer questions on Quora
+* [Freenode](http://webchat.freenode.net/?channels=php) - Active support IRC channel for PHP users
+* [Freenode](http://webchat.freenode.net/?channels=phpc) - Active community IRC channel for PHP users
+* [php.ug](http://php.ug) - map of local PHP user groups
+
+
+### Symfony
+
+* [Stack Overflow](http://stackoverflow.com/?tags=symfony) - Symfony support on StackOverflow
+* [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion
+* [Facebook](https://fb.com/groups/7672226565) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/109013871316146116610) - large and active about Symfony group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=symfony) - Active IRC channel for Symfony support
 
 [Back to top](#awesome-community-)
 
 
 ## Python
 
-* [StackOverflow](http://stackoverflow.com/?tags=python) - ask and answer questions about Python on StackOverflow
-* [Reddit](https://www.reddit.com/r/python)
-* Facebook
-	* [Python Programming Society](https://fb.com/groups/pythonears/)
+* [Stack Overflow](http://stackoverflow.com/?tags=python) - Python support channel
+* Facebook:
+    * [Python Programming Society](https://fb.com/groups/pythonears/)
+    * [Python Programming Society](https://fb.com/groups/pythonears/)
+* Google+:
+    * [Python](https://plus.google.com/communities/103393744324769547228)
+* [Freenode](http://webchat.freenode.net/?channels=python) - Active IRC channel for Python users
 
 [Back to top](#awesome-community-)
 
 
 ## Ruby
 
-* [StackOverflow](http://stackoverflow.com/?tags=ruby) - ask and answer questions about Ruby on StackOverflow
-* [Reddit](https://www.reddit.com/r/ruby)
+* [Stack Overflow](http://stackoverflow.com/?tags=ruby)
+* [Reddit](http://www.reddit.com/r/ruby)
+* Facebook:
+    * [Ruby](https://fb.com/groups/2221017023/)
 
 [Back to top](#awesome-community-)
 
 
 ## Swift
 
-* [StackOverflow](http://stackoverflow.com/?tags=swift) - ask and answer questions about Swift on StackOverflow
+* [Stack Overflow](http://stackoverflow.com/?tags=swift)
 * [Reddit](https://www.reddit.com/r/swift)
 
 [Back to top](#awesome-community-)
