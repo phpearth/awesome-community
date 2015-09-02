@@ -10,6 +10,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
+    * [Laravel](#laravel)
     * [Symfony](#symfony)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -49,6 +50,18 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](http://webchat.freenode.net/?channels=php) - Active support IRC channel for PHP users
 * [Freenode](http://webchat.freenode.net/?channels=phpc) - Active community IRC channel for PHP users
 * [php.ug](http://php.ug) - map of local PHP user groups
+
+
+### Laravel
+
+* [Stack Overflow](http://stackoverflow.com/?tags=laravel) - Laravel support on StackOverflow
+* [Reddit](http://www.reddit.com/r/laravel) - Ask and answer questions, discussion
+* [Google+](https://plus.google.com/communities/106838454910116161868) - large and active group about Laravel on Google+
+* Laravel forums:
+    * [Laravel.io](http://laravel.io/forum)
+    * [Laracasts discussions](https://laracasts.com/discuss)
+* [Freenode](https://webchat.freenode.net/?channels=laravel) - Active IRC channel for Laravel support
+* [Linked.in](https://www.linkedin.com/grp/home?gid=4419933)
 
 
 ### Symfony
