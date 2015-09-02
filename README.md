@@ -45,11 +45,14 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Stack Overflow](http://stackoverflow.com/?tags=php) - PHP support on StackOverflow
 * [Reddit](http://www.reddit.com/r/PHP) - Ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/2204685680) - large and active group on Facebook
-* [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active about PHP group on Google+
+* [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active group about PHP on Google+
 * [Quora](https://www.quora.com/PHP-programming-language-1) - Ask and answer questions on Quora
 * [Freenode](http://webchat.freenode.net/?channels=php) - Active support IRC channel for PHP users
 * [Freenode](http://webchat.freenode.net/?channels=phpc) - Active community IRC channel for PHP users
 * [php.ug](http://php.ug) - map of local PHP user groups
+* [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
+
+[Back to top](#awesome-community-)
 
 
 ### Laravel
@@ -63,13 +66,15 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](https://webchat.freenode.net/?channels=laravel) - Active IRC channel for Laravel support
 * [Linked.in](https://www.linkedin.com/grp/home?gid=4419933)
 
+[Back to top](#awesome-community-)
+
 
 ### Symfony
 
 * [Stack Overflow](http://stackoverflow.com/?tags=symfony) - Symfony support on StackOverflow
 * [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/7672226565) - large and active group on Facebook
-* [Google+](https://plus.google.com/communities/109013871316146116610) - large and active about Symfony group on Google+
+* [Google+](https://plus.google.com/communities/109013871316146116610) - large and active group about Symfony on Google+
 * [Freenode](http://webchat.freenode.net/?channels=symfony) - Active IRC channel for Symfony support
 
 [Back to top](#awesome-community-)
