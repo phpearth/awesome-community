@@ -117,6 +117,7 @@ Some reading material how to build communities
 
 * [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/)
 * [The Art of Community Online](http://www.artofcommunityonline.org/) - Book, Building the New Age of Participation, [PDF](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
+* [5 Ingredients for Building Community](http://designerfund.com/5-ingredients-for-building-community) - article, how a community of over 100 top designers including founders, leads and angels has been built
 
 [Back to top](#awesome-community-)
 
