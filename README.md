@@ -7,6 +7,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Index
 
+* [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
@@ -18,6 +19,20 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
+
+
+## Haskell
+
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/haskell) - Haskell support on StackOverflow
+* [Reddit](https://www.reddit.com/r/haskell) - Haskell discussion forum on Reddit
+* [Facebook](https://fb.com/groups/programming.haskell/) - large and active Haskell group on Facebook
+* [Google+](https://plus.google.com/communities/104818126031270146189) - large and active group for Haskell on G+
+* [Linked.in](https://www.linkedin.com/groups?gid=81034) - large and active Haskell group on Linked.in
+* [Quora](https://www.quora.com/Haskell-programming-language) - topics about Haskell on Quora
+* [Freenode](http://webchat.freenode.net/?channels=haskell) - IRC channel for Haskell
+* [Local user groups](https://wiki.haskell.org/User_groups) - get involved locally
+
+[Back to top](#awesome-community-)
 
 
 ## Java
