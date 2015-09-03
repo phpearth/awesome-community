@@ -159,6 +159,7 @@ Some reading material how to build communities
 * [GetAwesomeness](http://getawesomeness.com/)
 * [lists](https://github.com/jnv/lists)
 * [awesome-community](https://github.com/rafaecheve/Awesome-Community) - Repository about how to build communities online
+* [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - list of open companies
 
 [Back to top](#awesome-community-)
 
