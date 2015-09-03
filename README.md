@@ -7,6 +7,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Index
 
+* [Go](#go)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -21,9 +22,24 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Contributing and License](#contributing-and-license)
 
 
+## Go
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/go) - Go support on StackOverflow
+* [Reddit](https://www.reddit.com/r/haskell) - Go discussion forum on Reddit
+* [Facebook](https://fb.com/groups/206770519471402) - large and active Go group on Facebook
+* [Google+](https://plus.google.com/communities/114112804251407510571) - large and active Go group on G+
+* [Linked.in](https://www.linkedin.com/groups?gid=2524765) - large and active Go group on Linked.in
+* [Quora](https://www.quora.com/Go-programming-language) - topics about Go on Quora
+* [Freenode](http://webchat.freenode.net/?channels=go-nuts) - IRC channel for Go
+* [Local user groups](https://github.com/golang/go/wiki/GoUserGroups) - get involved locally
+
+
+[Back to top](#awesome-community-)
+
+
 ## Haskell
 
-* [Stackoverflow](http://stackoverflow.com/questions/tagged/haskell) - Haskell support on StackOverflow
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/haskell) - Haskell support on StackOverflow
 * [Reddit](https://www.reddit.com/r/haskell) - Haskell discussion forum on Reddit
 * [Facebook](https://fb.com/groups/programming.haskell/) - large and active Haskell group on Facebook
 * [Google+](https://plus.google.com/communities/104818126031270146189) - large and active group for Haskell on G+
@@ -37,7 +53,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Java
 
-* [Stack Overflow](http://stackoverflow.com/?tags=java)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/java)
 * [Reddit](http://www.reddit.com/r/java)
 * [Facebook](https://fb.com/groups/Javagroup123/)
 * [Google+](https://plus.google.com/communities/101399526652980913951)
@@ -47,7 +63,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## JavaScript
 
-* [Stack Overflow](http://stackoverflow.com/?tags=javascript) - Ask and answer questions about JavaScript
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript) - Ask and answer questions about JavaScript
 * [Reddit](http://www.reddit.com/r/JavaScript)
 * [Facebook](https://fb.com/groups/JavaScript.Programming/)
 * [Google+](https://plus.google.com/communities/100875929141897651837)
@@ -57,7 +73,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## PHP
 
-* [Stack Overflow](http://stackoverflow.com/?tags=php) - PHP support on StackOverflow
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/php) - PHP support on StackOverflow
 * [Reddit](http://www.reddit.com/r/PHP) - Ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/2204685680) - large and active group on Facebook
 * [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active group about PHP on Google+
@@ -72,7 +88,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Laravel
 
-* [Stack Overflow](http://stackoverflow.com/?tags=laravel) - Laravel support on StackOverflow
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/laravel) - Laravel support on StackOverflow
 * [Reddit](http://www.reddit.com/r/laravel) - Ask and answer questions, discussion
 * [Google+](https://plus.google.com/communities/106838454910116161868) - large and active group about Laravel on Google+
 * Laravel forums:
@@ -86,7 +102,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Symfony
 
-* [Stack Overflow](http://stackoverflow.com/?tags=symfony) - Symfony support on StackOverflow
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony) - Symfony support on StackOverflow
 * [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/7672226565) - large and active group on Facebook
 * [Google+](https://plus.google.com/communities/109013871316146116610) - large and active group about Symfony on Google+
@@ -97,9 +113,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Python
 
-* [Stack Overflow](http://stackoverflow.com/?tags=python) - Python support channel
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/python) - Python support channel
 * Facebook:
-    * [Python Programming Society](https://fb.com/groups/pythonears/)
     * [Python Programming Society](https://fb.com/groups/pythonears/)
 * Google+:
     * [Python](https://plus.google.com/communities/103393744324769547228)
@@ -110,7 +125,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Ruby
 
-* [Stack Overflow](http://stackoverflow.com/?tags=ruby)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/ruby)
 * [Reddit](http://www.reddit.com/r/ruby)
 * Facebook:
     * [Ruby](https://fb.com/groups/2221017023/)
@@ -120,7 +135,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Swift
 
-* [Stack Overflow](http://stackoverflow.com/?tags=swift)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/swift)
 * [Reddit](https://www.reddit.com/r/swift)
 
 [Back to top](#awesome-community-)
