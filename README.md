@@ -135,10 +135,10 @@ Some reading material how to build communities
 
 ## Contributing and License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community list as well.
+You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community list as well. Big thanks to all current [contributors](https://github.com/peterkokot/awesome-comunity/graphs/contributors) who have helped build this Awesome Community list.
 
-Big thanks to all current [contributors](https://github.com/peterkokot/awesome-comunity/graphs/contributors) who have helped build this Awesome Community list.
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). Feel free to create also your list if you find this one insufficient. However having everything in "one place" would be better for easier maintaining of the awesome-community list.
+To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work
 
 [Back to top](#awesome-community-)
