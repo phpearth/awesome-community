@@ -7,16 +7,56 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Index
 
-* [Go](#go)
-* [Haskell](#haskell)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [PHP](#php)
-    * [Laravel](#laravel)
-    * [Symfony](#symfony)
-* [Python](#python)
-* [Ruby](#ruby)
-* [Swift](#swift)
+* By programming language
+	* Assembler
+	* AutoHotkey
+	* AutoIt
+	* C
+	* C/C++
+	* Clojure
+	* Coldfusion
+	* Common Lisp
+	* Crystal
+	* D
+	* Dart
+	* Delphi
+	* Elixir
+	* Elm
+	* Erlang
+	* Fortran
+	* [Go](#go)
+	* Groovy
+	* [Haskell](#haskell)
+	* [Java](#java)
+	* [JavaScript](#javascript)
+	* Julia
+	* Lua
+	* OCaml
+	* Perl
+	* [PHP](#php)
+    	* [Laravel](#laravel)
+    	* [Symfony](#symfony)
+    * PureScript
+	* [Python](#python)
+	* R
+	* [Ruby](#ruby)
+	* Rust
+	* Scala
+	* [Swift](#swift)
+	* TypeScript
+* By platform:
+	* .NET
+	* Android
+	* Cordova
+	* Electron
+    * Frontend Development
+	* Hybrid Apps
+    * iOS
+	* [Linux](#linux)
+    * Node.js
+	* React Native
+	* Xamarin
+	* watchOS
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
@@ -137,6 +177,18 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/swift)
 * [Reddit](https://www.reddit.com/r/swift)
+
+[Back to top](#awesome-community-)
+
+
+## Linux
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/linux) - Linux support on StackOverflow
+* [Reddit](http://www.reddit.com/r/linux) - Discussion forum with links to support forums
+* [Facebook](https://fb.com/groups/GNUAndLinux/) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/109254488709825102030) - large and active group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=linux) - Active support IRC channel users
+* [Linked.in](https://www.linkedin.com/grp/home?gid=65688) - large and active discussion group on Linked.in
 
 [Back to top](#awesome-community-)
 
