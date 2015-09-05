@@ -40,6 +40,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Python](#python)
 	* R
 	* [Ruby](#ruby)
+		* [Ruby on Rails](#ruby-on-rails)
 	* Rust
 	* Scala
 	* [Swift](#swift)
@@ -93,10 +94,14 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Java
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/java)
-* [Reddit](http://www.reddit.com/r/java)
-* [Facebook](https://fb.com/groups/Javagroup123/)
-* [Google+](https://plus.google.com/communities/101399526652980913951)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/java) - Java support on Stack Overflow
+* [Reddit](http://www.reddit.com/r/java) - Java discussion on Reddit
+* [Facebook](https://fb.com/groups/Javagroup123/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/101399526652980913951) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=70526) - large and active Linked.in group
+* [Quora](https://www.quora.com/Java-programming-language) - Java topics on Quora
+* [Freenode](http://webchat.freenode.net/?channels=java) - active and large Java IRC channel
+* [Local JUGs](https://www.java.net/jugs/java-user-groups) - get involved locally
 
 [Back to top](#awesome-community-)
 
@@ -104,9 +109,12 @@ Inspired by the `awesome-*` trend on GitHub.
 ## JavaScript
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript) - Ask and answer questions about JavaScript
-* [Reddit](http://www.reddit.com/r/JavaScript)
-* [Facebook](https://fb.com/groups/JavaScript.Programming/)
-* [Google+](https://plus.google.com/communities/100875929141897651837)
+* [Reddit](http://www.reddit.com/r/JavaScript) - JavaScript discussions on Reddit
+* [Facebook](https://fb.com/groups/JavaScript.Programming/) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/100875929141897651837) - large and active group on Google+
+* [Linked.in](https://www.linkedin.com/grp/home?gid=121615) - large and active group on Linked.in
+* [Quora](https://www.quora.com/JavaScript-programming-language) - JavaScript topics on Quora
+* [Freenode](http://webchat.freenode.net/?channels=javascript) - large and active IRC channel
 
 [Back to top](#awesome-community-)
 
@@ -114,12 +122,13 @@ Inspired by the `awesome-*` trend on GitHub.
 ## PHP
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/php) - PHP support on StackOverflow
-* [Reddit](http://www.reddit.com/r/PHP) - Ask and answer questions, discussion
+* [Reddit](http://www.reddit.com/r/PHP) - ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/2204685680) - large and active group on Facebook
 * [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active group about PHP on Google+
-* [Quora](https://www.quora.com/PHP-programming-language-1) - Ask and answer questions on Quora
-* [Freenode](http://webchat.freenode.net/?channels=php) - Active support IRC channel for PHP users
-* [Freenode](http://webchat.freenode.net/?channels=phpc) - Active community IRC channel for PHP users
+* [Quora](https://www.quora.com/PHP-programming-language-1) - ask and answer questions on Quora
+* Freenod:
+	* [#php](http://webchat.freenode.net/?channels=php) - active support IRC channel for PHP users
+	* [#phpc](http://webchat.freenode.net/?channels=phpc) - active community IRC channel for PHP users
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 
@@ -136,6 +145,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Laracasts discussions](https://laracasts.com/discuss)
 * [Freenode](https://webchat.freenode.net/?channels=laravel) - Active IRC channel for Laravel support
 * [Linked.in](https://www.linkedin.com/grp/home?gid=4419933)
+* [Quora](https://www.quora.com/Laravel) - Laravel topics on Quora
 
 [Back to top](#awesome-community-)
 
@@ -147,6 +157,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Facebook](https://fb.com/groups/7672226565) - large and active group on Facebook
 * [Google+](https://plus.google.com/communities/109013871316146116610) - large and active group about Symfony on Google+
 * [Freenode](http://webchat.freenode.net/?channels=symfony) - Active IRC channel for Symfony support
+* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - large and active group on Linked.in
+* [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora
 
 [Back to top](#awesome-community-)
 
@@ -154,29 +166,50 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Python
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/python) - Python support channel
-* Facebook:
-    * [Python Programming Society](https://fb.com/groups/pythonears/)
-* Google+:
-    * [Python](https://plus.google.com/communities/103393744324769547228)
-* [Freenode](http://webchat.freenode.net/?channels=python) - Active IRC channel for Python users
+* [Reddit](https://www.reddit.com/r/python) - Python discussions on Reddit
+* [Facebook](https://fb.com/groups/pythonears/) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/103393744324769547228) - large and active group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=python) - active IRC channel for Python users
+* [Linked.in](https://www.linkedin.com/groups?gid=25827) - large and active group on Linked.in
+* [Quora](https://www.quora.com/Python-programming-language-1) - Python topics on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Ruby
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/ruby)
-* [Reddit](http://www.reddit.com/r/ruby)
-* Facebook:
-    * [Ruby](https://fb.com/groups/2221017023/)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/ruby) - Ruby support on Stack Overflow
+* [Reddit](http://www.reddit.com/r/ruby) - Ruby discussions on Reddit
+* [Facebook](https://fb.com/groups/2221017023/) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/101878695540653445908) - large and active group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=ruby) - IRC channel
+* [Quora](https://www.quora.com/Ruby-programming-language) - Ruby topics on Quora
+
+[Back to top](#awesome-community-)
+
+
+### Ruby on Rails
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/ruby-on-rails) - Ruby on Rails support on Stack overflow
+* [Reddit](http://www.reddit.com/r/rubyonrails) - Discussions on Reddit
+* [Facebook](https://fb.com/groups/railsrocks) - large and active group on Facebook
+* [Google+](https://plus.google.com/communities/102406850580404903942) - large and active group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=RubyOnRails) - large and active IRC channel
+* [Linked.in](https://www.linkedin.com/grp/home?gid=22413) - large and active group on Linked.in
+* [Quora](https://www.quora.com/Ruby-on-Rails-web-framework) - Ror topics on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Swift
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/swift)
-* [Reddit](https://www.reddit.com/r/swift)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/swift) - Swift support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/swift) - Swift discussions on Reddit
+* [Facebook](https://fb.com/groups/swiftiosdev) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/113458166730005193635) - large and active group on Google+
+* [Freenode](http://webchat.freenode.net/?channels=swift-lang) - IRC channel for Swift
+* [Linked.in](https://www.linkedin.com/grp/home?gid=8119756) - large and active Swift group on Linked.in
+* [Quora](https://www.quora.com/Apple-Swift-programming-language) - Swift topics on Quora
 
 [Back to top](#awesome-community-)
 
