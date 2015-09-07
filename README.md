@@ -15,7 +15,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [C++](c++)
 	* [Clojure](#clojure)
 	* [Coldfusion](#coldfusion)
-	* [Common Lisp](#common-list)
+	* [Common Lisp](#common-lisp)
 	* [Crystal](#crystal)
 	* [D](#d)
 	* [Dart](#dart)
@@ -29,6 +29,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Haskell](#haskell)
 	* [Java](#java)
 	* [JavaScript](#javascript)
+		* [Dojo Toolkit](#dojo-toolkit)
 	* [Julia](#julia)
 	* [Lua](#lua)
 	* [OCaml](#ocaml)
@@ -46,18 +47,18 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Swift](#swift)
 	* [TypeScript](#typescript)
 * By platform:
-	* .NET
-	* Android
-	* Cordova
-	* Electron
-    * Frontend Development
-	* Hybrid Apps
-    * iOS
+	* [.NET](#net)
+	* [Android](#android)
+	* [Cordova](#cordova)
+	* [Electron](#electron)
+    * [Frontend Development](#frontend-development)
+	* [Hybrid Apps](#hybrid-apps)
+    * [iOS](#ios)
 	* [Linux](#linux)
-    * Node.js
-	* React Native
-	* Xamarin
-	* watchOS
+    * [Node.js](#nodejs)
+	* [React Native](#react-native)
+	* [Xamarin](#xamarin)
+	* [watchOS](#watchos)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
@@ -124,65 +125,61 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Clojure
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/clojure) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/clojure) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/clojure/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/103410768849046117338) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=1058217) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=clojure) - large and active IRC channel
+* [Quora](https://www.quora.com/Clojure-programming-language) - topic on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Coldfusion
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/coldfusion) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/coldfusion) - discussion forum on Reddit
+* [Facebook](https://www.facebook.com/groups/CFprogrammers/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/107904082418572935898) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=63526) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=coldfusion) - large and active IRC channel
+* [Quora](https://www.quora.com/ColdFusion) - topic on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Common Lisp
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/common-lisp) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/common_lisp) - discussion forum on Reddit
+* [Google+](https://plus.google.com/communities/101016130241925650833) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=830547) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=lisp) - large and active IRC channel
+* [Quora](https://www.quora.com/Common-Lisp) - topic on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Crystal
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](https://www.reddit.com/r/crystal_programming) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/crystal_programming) - discussion forum on Reddit
+* [Google group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang) - support and development Google group
+* [Freenode](http://webchat.freenode.net/?channels=crystal-lang) - active IRC channel
+* [Quora](https://www.quora.com/Crystal-programming-language) - topic on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## D
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/d) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/d_language) - discussion forum on Reddit
+* [Google+](https://plus.google.com/communities/100033468228217743303) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=1996506) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=d) - large and active IRC channel
+* [Quora](https://www.quora.com/D-programming-language) - topic on Quora
 
 [Back to top](#awesome-community-)
 
@@ -333,6 +330,71 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community-)
 
 
+### Dojo Toolkit
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/dojo) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/dojo) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/4375511291/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/107837593684207188221) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/grp/home?gid=71399) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=dojo) - large and active IRC channel
+* [Quora](https://www.quora.com/Dojo-JavaScript-toolkit) - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Julia
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Lua
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## OCaml
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Perl
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
 ## PHP
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/php) - PHP support on StackOverflow
@@ -377,6 +439,19 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community-)
 
 
+## PureScript
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
 ## Python
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/python) - Python support channel
@@ -386,6 +461,19 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](http://webchat.freenode.net/?channels=python) - active IRC channel for Python users
 * [Linked.in](https://www.linkedin.com/groups?gid=25827) - large and active group on Linked.in
 * [Quora](https://www.quora.com/Python-programming-language-1) - Python topics on Quora
+
+[Back to top](#awesome-community-)
+
+
+## R
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
 
 [Back to top](#awesome-community-)
 
@@ -415,6 +503,32 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community-)
 
 
+## Rust
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Scala
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
 ## Swift
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/swift) - Swift support on Stack Overflow
@@ -428,6 +542,110 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community-)
 
 
+## TypeScript
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## .NET
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Android
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Cordova
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Electron
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Frontend development
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Hybrid apps
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## iOS
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
 ## Linux
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/linux) - Linux support on StackOverflow
@@ -436,6 +654,58 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/109254488709825102030) - large and active group on Google+
 * [Freenode](http://webchat.freenode.net/?channels=linux) - Active support IRC channel users
 * [Linked.in](https://www.linkedin.com/grp/home?gid=65688) - large and active discussion group on Linked.in
+
+[Back to top](#awesome-community-)
+
+
+## Node.js
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## React Native
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## Xamarin
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+## watchOS
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/) - large and active Google+ group
+* [Linked.in]() - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
+* [Quora]() - topic on Quora
 
 [Back to top](#awesome-community-)
 
