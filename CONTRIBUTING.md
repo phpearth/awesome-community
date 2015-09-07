@@ -17,7 +17,7 @@ If you decide to contribute to this Awesome Community repository, please do the 
   $ git pull
   ```
 
-* Create a new Git branch for instance patch-1:
+* Create a new Git branch for instance `patch-1`:
 
   ```bash
   $ git checkout -b patch-1
