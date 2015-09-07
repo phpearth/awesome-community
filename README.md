@@ -30,6 +30,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Java](#java)
 	* [JavaScript](#javascript)
 		* [Dojo Toolkit](#dojo-toolkit)
+		* [jQuery](#jquery)
 	* [Julia](#julia)
 	* [Lua](#lua)
 	* [OCaml](#ocaml)
@@ -339,6 +340,21 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=71399) - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=dojo) - large and active IRC channel
 * [Quora](https://www.quora.com/Dojo-JavaScript-toolkit) - topic on Quora
+
+[Back to top](#awesome-community-)
+
+
+### jQuery
+
+* [Stack Overflow](http://stackoverflow.com/tags/jquery) - Support on Stack Overflow
+* [Forum](https://forum.jquery.com/) - Official forum
+* [Freenode](https://webchat.freenode.net/?channels=jquery) - Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile
+* [Facebook](https://www.facebook.com/groups/jquerycode/) - Large and active group on Facebook
+* [Linked.in](https://www.linkedin.com/grp/home?gid=100943) - Large and active group on Linked.in
+* [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects
+* [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+
+* [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website
+* [Meetup](http://jquery.meetup.com/) - Get involved locally
 
 [Back to top](#awesome-community-)
 
