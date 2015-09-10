@@ -7,6 +7,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Index
 
+* [By website](#by-website)
 * By programming language
 	* [Assembly](#assembly)
 	* [AutoHotkey](#autohotkey)
@@ -29,6 +30,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Haskell](#haskell)
 	* [Java](#java)
 	* [JavaScript](#javascript)
+		* [AngularJS](#angularjs)
 		* [Dojo Toolkit](#dojo-toolkit)
 		* [jQuery](#jquery)
 	* [Julia](#julia)
@@ -63,6 +65,19 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
+
+
+## By Website
+
+*Some important websites where cool developers hang out and give back to the community.*
+
+* [Meetup](http://meetup.com) - Find Meetups and meet people in your local community who share your interests
+* [Quora](https://www.quora.com/) - Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community
+* [Reddit](http://reddit) - Reddit is an entertainment, social networking, and news website with lots of forums for developers.
+* [Sitepoint Forums](http://community.sitepoint.com/) - Sitepoint community forums for developers
+* [Stack Overflow](http://stackoverflow.com) - A language-independent collaboratively edited question and answer site for programmers
+
+[Back to top](#awesome-community-)
 
 
 ## Assembly
@@ -187,26 +202,25 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Dart
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/tags/dart) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/dartlang/) - discussion forum on Reddit
+* [Linked.in](https://www.linkedin.com/grp/home?gid=4124554) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=dart) - large and active IRC channel
+* [Quora](https://www.quora.com/Dart-programming-language) - topic on Quora
 
 [Back to top](#awesome-community-)
 
 
 ## Delphi
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/delphi) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/delphi) - discussion forum on Reddit
+* [Facebook](https://fb.com/groups/137012246341854/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/103113685381486591754) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups?gid=101829) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=delphi) - large and active IRC channel
+* [Quora](https://www.quora.com/Delphi-programming-language) - topic on Quora
+* [Embaracedro Forum](https://forums.embarcadero.com/category.jspa?categoryID=12) - Forums on Embaracedro network
 
 [Back to top](#awesome-community-)
 
@@ -331,6 +345,17 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community-)
 
 
+### AngularJS
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/angularjs) - Ask and answer questions
+* [Reddit](http://www.reddit.com/r/angularjs) - Discussions on Reddit
+* [Facebook](https://fb.com/groups/AngularJS2/) - Large and active group on Facebook
+* [Google+](https://plus.google.com/communities/115368820700870330756) - Large and active group on Google+
+* [Linked.in](https://www.linkedin.com/grp/home?gid=4896676) - Large and active group on Linked.in
+* [Quora](https://www.quora.com/AngularJS) - Topic on Quora
+* [Freenode](http://webchat.freenode.net/?channels=angularjs) - large and active IRC channel
+
+
 ### Dojo Toolkit
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/dojo) - support on Stack Overflow
@@ -423,6 +448,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [#phpc](http://webchat.freenode.net/?channels=phpc) - active community IRC channel for PHP users
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
+* [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
 
 [Back to top](#awesome-community-)
 
