@@ -63,7 +63,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [Xamarin](#xamarin)
 	* [watchOS](#watchos)
 * [Resources](#resources)
-* [Other Awesome Lists](#other-awesome-lists)
+* [Looking for more lists like that?](#looking-for-more-lists-like-that)
 * [Contributing and License](#contributing-and-license)
 
 
@@ -75,6 +75,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora](https://www.quora.com/) - Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community
 * [Reddit](http://reddit) - Reddit is an entertainment, social networking, and news website with lots of forums for developers.
 * [Sitepoint Forums](http://community.sitepoint.com/) - Sitepoint community forums for developers
+* [Slack](http://slack.com/) - Platform for team communication: everything in one place, instantly searchable and available
 * [Stack Overflow](http://stackoverflow.com) - A language-independent collaboratively edited question and answer site for programmers
 
 [Back to top](#awesome-community-)
@@ -763,10 +764,11 @@ Some reading material how to build communities
 [Back to top](#awesome-community-)
 
 
-## Other Awesome Lists
+## Looking for more lists like that?
 
 * [awesome-community](https://github.com/rafaecheve/Awesome-Community) - repository about how to build communities online
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - list of open companies
+* [awesome-slack](https://github.com/filipelinhares/awesome-slack) - List of communities about web development and design that are powered by [Slack](http://slack.com/).
 * awesome lists:
 	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
 	* [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
