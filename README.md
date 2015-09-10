@@ -4,52 +4,19 @@ A curated list of awesome programming, development and similar technical support
 
 Inspired by the `awesome-*` trend on GitHub.
 
+<p align="center">
+    <img width="700" src="community.png" alt="awesome-community">
+</p>
 
 ## Index
 
 * [By website](#by-website)
-* [By programming language](#by-programming-language)
-	* [Assembly](#assembly)
-	* [AutoHotkey](#autohotkey)
-	* [AutoIt](#autoit)
-	* [C](#c)
-	* [C++](c++)
-	* [Clojure](#clojure)
-	* [Coldfusion](#coldfusion)
-	* [Common Lisp](#common-lisp)
-	* [Crystal](#crystal)
-	* [D](#d)
-	* [Dart](#dart)
-	* [Delphi](#delphi)
-	* [Elixir](#elixir)
-	* [Elm](#elm)
-	* [Erlang](#erlang)
-	* [Fortran](#fortran)
-	* [Go](#go)
-	* [Groovy](#groovy)
-	* [Haskell](#haskell)
-	* [Java](#java)
-	* [JavaScript](#javascript)
-		* [AngularJS](#angularjs)
-		* [Dojo Toolkit](#dojo-toolkit)
-		* [jQuery](#jquery)
-		* [React](#react)
-	* [Julia](#julia)
-	* [Lua](#lua)
-	* [OCaml](#ocaml)
-	* [Perl](#perl)
-	* [PHP](#php)
-    	* [Laravel](#laravel)
-    	* [Symfony](#symfony)
-    * [PureScript](#purescript)
-	* [Python](#python)
-	* [R](#r)
-	* [Ruby](#ruby)
-		* [Ruby on Rails](#ruby-on-rails)
-	* [Rust](#rust)
-	* [Scala](#scala)
-	* [Swift](#swift)
-	* [TypeScript](#typescript)
+* [By language](#by-language)
+
+    |     |     |     |     |     |
+    |-----|-----|-----|-----|-----|
+    | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](c++)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [Symfony](#symfony)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
+
 * [By platform](#by-platform)
 	* [.NET](#net)
 	* [Android](#android)
@@ -82,11 +49,13 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community)
 
 
-## By programming language
+## By language
 
-*Communities organized by programming language interest*
+*Communities organized by programming/scripting/markup language interest.*
 
 ### Assembly
+
+*Assembly programming language related community.*
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/assembly) - support on Stack Overflow
 * [Reddit](https://www.reddit.com/r/asm) - discussion forum on Reddit
@@ -233,20 +202,22 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Elixir
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/elixir) - discussion forum on Reddit
+* [Google+](https://plus.google.com/communities/115770991058707869622) - large and active Google+ group
+* [Mailing list](https://groups.google.com/group/elixir-lang-talk) - Mailing list for questions and answers
+* [Linked.in](https://www.linkedin.com/groups?gid=6530248) - large and active group on Linked.in
+* [Freenode](http://irc.lc/freenode/elixir-lang) - large and active IRC channel
+* [Quora](https://www.quora.com/Elixir-programming-language) - topic on Quora
+* [Slack](https://elixir-slackin.herokuapp.com/) - officially suggested community on Slack
+* [Meetup](http://elixir.meetup.com/) - get involved locally
 
 [Back to top](#awesome-community)
 
 
 ### Elm
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/elm) - support on Stack Overflow
 * [Reddit](http://reddit.com/r/) - discussion forum on Reddit
 * [Facebook](https://fb.com/groups/) - large and active Facebook group
 * [Google+](https://plus.google.com/communities/) - large and active Google+ group
@@ -619,13 +590,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### .NET
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/.net) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/dotnet/) - discussion forum on Reddit
+* [Facebook](https://www.facebook.com/groups/learncsharpnet/) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/103596470409180466570) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/grp/home?gid=40949) - large and active group on Linked.in
+* [Freenode](http://irc.lc/freenode/asp.net) - large and active IRC channel
+* [Quora](https://www.quora.com/NET-Framework) - topic on Quora
 
 [Back to top](#awesome-community)
 
@@ -786,6 +757,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-community](https://github.com/rafaecheve/Awesome-Community) - repository about how to build communities online
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - list of open companies
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) - List of communities about web development and design that are powered by [Slack](http://slack.com/).
+* [awesome-answers](https://github.com/jugoncalves/awesome-answers) - List of inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * awesome lists:
 	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
 	* [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
