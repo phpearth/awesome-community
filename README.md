@@ -603,13 +603,17 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Android
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+*Community organized by [Android](https://www.android.com/) platform interest*
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/android) - support on Stack Overflow
+* [Reddit](http://reddit.com/r/android) - discussion forum on Reddit
 * [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Google+](https://plus.google.com/communities/100821581565823788798) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/grp/home?gid=86481) - large and active group on Linked.in
+* [Freenode](http://irc.lc/freenode/android) - large and active IRC channel
+* Quora:
+	* [Android Applications](https://www.quora.com/Android-Applications) - topic about Android Applications
+	* [Android Operating System](https://www.quora.com/Android-operating-system) - topic about Android OS
 
 [Back to top](#awesome-community)
 
