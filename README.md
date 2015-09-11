@@ -15,7 +15,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
     |     |     |     |     |     |
     |-----|-----|-----|-----|-----|
-    | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](c++)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [Symfony](#symfony)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
+    | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](c++)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [Symfony](#symfony)<br>— [Zend Framwork](#zend-framework)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
 
 * [By platform](#by-platform)
 	* [.NET](#net)
@@ -465,6 +465,20 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](http://webchat.freenode.net/?channels=symfony) - Active IRC channel for Symfony support
 * [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - large and active group on Linked.in
 * [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora
+
+[Back to top](#awesome-community)
+
+
+#### Zend Framework
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/zend-framework) - Support on StackOverflow
+* [Reddit](https://www.reddit.com/r/zftalk/) - Ask and answer questions, discussion
+* [Facebook](https://www.facebook.com/groups/zendframework2/) - Large and active group on Facebook
+* [Google+](https://plus.google.com/communities/115348461699286787401) - Large and active group on Google+
+* [IRC](http://irc.lc/freenode/zftalk) - Active IRC channel
+* [Linked.in](https://www.linkedin.com/grp/home?gid=728287) - Large and active group on Linked.in
+* [Quora](https://www.quora.com/Zend-Framework-1) - Zend Framework topics on Quora
+* [User Groups](http://framework.zend.com/participate/user-groups/) - Zend Framework usergroups
 
 [Back to top](#awesome-community)
 
