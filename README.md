@@ -5,7 +5,7 @@ A curated list of awesome programming, development and similar technical support
 Inspired by the `awesome-*` trend on GitHub.
 
 <p align="center">
-    <img width="700" src="community.png" alt="awesome-community">
+    <img width="700" src="https://raw.githubusercontent.com/peterkokot/awesome-community/master/app/web/images/community.png" alt="awesome-community">
 </p>
 
 ## Index
