@@ -1,0 +1,61 @@
+community:
+	websites:
+		title: "By website"
+		description: "Some important websites where cool developers hang out and give back to the community."
+		items:
+			meetup:
+				title: "Meetup"
+				description: "Find Meetups and meet people in your local community who share your interests"
+				link: http://meetup.com/
+			quora:
+				title: "Quora"
+				description: "Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community"
+				link: https://www.quora.com/
+			reddit:
+				title: "Reddit"
+				description: "Reddit is an entertainment, social networking, and news website with lots of forums for developers."
+				link: http://reddit/
+			sitepoint:
+				title: "Sitepoint Forums"
+				description: "Sitepoint community forums for developers"
+				link: http://community.sitepoint.com/
+			slack:
+				title: "Slack"
+				description: "Platform for team communication: everything in one place, instantly searchable and available"
+				link: http://slack.com/
+			stackoverflow:
+				title: "Stack Overflow"
+				description: "A language-independent collaboratively edited question and answer site for programmers"
+				link: http://stackoverflow.com/
+	languages:
+		title: "By language"
+		description: ""
+			items:
+				assembly:
+					title: "Assembly"
+					description: "Assembly programming language related community."
+					links:
+						stackoverflow:
+							title: "Stack Overflow"
+							description: "Support on Stack Overflow"
+							link: "http://stackoverflow.com/questions/tagged/assembly"
+						reddit:
+							title: "Reddit"
+							description: "Discussion forum on Reddit"
+							link: "https://www.reddit.com/r/asm"
+						facebook:
+							title: "Facebook"
+							link: "https://fb.com/groups/40173965319/"
+							description: "Large and active Facebook group"
+						google:
+							title: "Google+"
+							link: "https://plus.google.com/communities/101939836280904288522"
+							description: "Large and active Google+ group"
+						irc:
+							title: "IRC
+							link: irc.lc/freenode/asm)
+							description: "Large and active IRC channel"
+						quora:
+							title: "Quora"
+							link: "https://www.quora.com/Assembly-Language"
+							description: "Topic on Quora"
