@@ -772,17 +772,19 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Looking for more lists like this?
 
-* [awesome-community](https://github.com/rafaecheve/Awesome-Community) - repository about how to build communities online
-* [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - list of open companies
-* [awesome-slack](https://github.com/filipelinhares/awesome-slack) - List of communities about web development and design that are powered by [Slack](http://slack.com/).
-* [awesome-answers](https://github.com/jugoncalves/awesome-answers) - List of inspiring and thoughtful answers given at stackoverflow, quora, etc.
-* awesome lists:
+* Awesome lists:
 	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
-	* [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
+	* [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
+	* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
+	* [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
 	* [GetAwesomeness](http://getawesomeness.com/) - awesome lists
 	* [lists](https://github.com/jnv/lists) - awesome lists
-	* [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
-	* [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
+* [awesome-answers](https://github.com/jugoncalves/awesome-answers) - List of inspiring and thoughtful answers given at stackoverflow, quora, etc.
+* [awesome-community](https://github.com/rafaecheve/Awesome-Community) - Repository about how to build communities online
+* [awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - List of awesome conferences
+* [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - List of open companies
+* [awesome-slack](https://github.com/filipelinhares/awesome-slack) - List of communities about web development and design that are powered by [Slack](http://slack.com/).
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - A collection of awesome resources about public speaking
 
 [Back to top](#awesome-community)
 
