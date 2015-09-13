@@ -15,7 +15,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
     |     |     |     |     |     |
     |-----|-----|-----|-----|-----|
-    | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](c++)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [Symfony](#symfony)<br>— [Zend Framwork](#zend-framework)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
+    | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](#c-1)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [CakePHP](#cakephp)<br>— [Symfony](#symfony)<br>— [Zend Framwork](#zend-framework)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
 
 * [By platform](#by-platform)
 	* [.NET](#net)
@@ -426,8 +426,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### PHP
 
+*PHP dynamic scripting language related community.*
+
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/php) - PHP support on StackOverflow
-* [Reddit](http://www.reddit.com/r/PHP) - ask and answer questions, discussion
+* [Reddit](http://www.reddit.com/r/PHP) - Ask and answer questions, discussion
 * [Facebook](https://fb.com/groups/2204685680) - large and active group on Facebook
 * [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active group about PHP on Google+
 * [Quora](https://www.quora.com/PHP-programming-language-1) - ask and answer questions on Quora
@@ -437,6 +439,22 @@ Inspired by the `awesome-*` trend on GitHub.
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
+
+[Back to top](#awesome-community)
+
+
+#### CakePHP
+
+*Community organized by CakePHP framework interes.*
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/cakephp) - Support on StackOverflow
+* [Reddit](http://www.reddit.com/r/cakephp) - Ask and answer questions, discussion
+* [Facebook](https://www.facebook.com/groups/cake.community/) - Large and active Facebook group
+* [Google+](https://plus.google.com/communities/108328920558088369819) - Large and active group on Google+
+* [Google group](https://groups.google.com/forum/#!forum/cake-php) - Discussion group for the project
+* [IRC](http://irc.lc/freenode/cakephp) - Large and active IRC channel
+* [Linked.in](https://www.linkedin.com/groups?gid=82040) - Large and active group on Linked.in
+* [Quora](https://www.quora.com/CakePHP) - Topic on Quora
 
 [Back to top](#awesome-community)
 
