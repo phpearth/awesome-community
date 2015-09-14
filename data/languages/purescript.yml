@@ -1,0 +1,20 @@
+purescript:
+    title: "PureScript"
+    description: "Community organized by PureScript language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/purescript"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/purescript"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/purescript"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/PureScript-programming-language"
+            description: "Topic on Quora"

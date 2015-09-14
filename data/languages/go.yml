@@ -1,0 +1,36 @@
+go:
+    title: "Go"
+    description: "Community organized by Go language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/go"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/golang"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/206770519471402"
+            description: "Large and active Facebook group"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/114112804251407510571"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=2524765"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/go-nuts"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Go-programming-language"
+            description: "Topic on Quora"
+        local:
+            title: "Local user groups"
+            url: "https://github.com/golang/go/wiki/GoUserGroups"
+            description: "Get involved locally"

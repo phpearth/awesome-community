@@ -1,0 +1,32 @@
+nodejs:
+    title: "Node.js"
+    description: "Node.js related community."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/node.js"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/node"
+        facebook:
+            title: "Facebook"
+            url: "https://www.facebook.com/groups/125499867491756/"
+            description: "Large and active Facebook group"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/communities/115365528781941125390"
+            description: "Large and active Google+ group"
+        linkedin:
+        	title: "Linked.in"
+        	url: "https://www.linkedin.com/groups?gid=2906459"
+        	description: "Large and active group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/Node.js"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Node-js"
+            description: "Topic on Quora"

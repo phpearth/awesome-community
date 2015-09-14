@@ -1,0 +1,40 @@
+java:
+    title: "Java"
+    description: "Community organized by Java programming language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/java"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://www.reddit.com/r/java"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/Javagroup123/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/101399526652980913951"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=70526"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/java"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Java-programming-language"
+            description: "Topic on Quora"
+        local:
+            title: "Local user groups"
+            url: "https://wiki.haskell.org/User_groups"
+            description: "Get involved locally"
+        jugs:
+            title: "Local JUGs"
+            url: "https://www.java.net/jugs/java-user-groups"
+            description: "Get involved locally"

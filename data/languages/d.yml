@@ -1,0 +1,28 @@
+d:
+    title: "D"
+    description: "Community organized by D language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/d"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/d_language"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/100033468228217743303"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/d"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=1996506"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/D-programming-language"
+            description: "Topic on Quora"

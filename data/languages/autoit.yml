@@ -1,0 +1,20 @@
+autoit:
+    title: "AutoIt"
+    description: "Assembly programming language related community."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/autoit"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/autoit"
+        linkedin:
+            title: "Linked.in"
+            description: "Large and active group on Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=1125217"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/AutoIT"
+            description: "Topic on Quora"

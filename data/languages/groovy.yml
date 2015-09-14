@@ -1,0 +1,28 @@
+groovy:
+    title: "Groovy"
+    description: "Community organized by Groovy language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/groovy"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/groovy"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/105160926044623621768"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=67067"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/groovy"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Groovy-programming-language"
+            description: "Topic on Quora"

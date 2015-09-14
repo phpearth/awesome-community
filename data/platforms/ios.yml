@@ -1,0 +1,32 @@
+ios:
+    title: "iOS"
+    description: 'Community organized by Apple''s <a href="http://www.apple.com/ios/">iOS</a> mobile operating system interest.'
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/ios"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/ios"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/iosdeveloper.global/"
+            description: "Large and active Facebook group"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/communities/112026628790708717979"
+            description: "Large and active Google+ group"
+        linkedin:
+        	title: "Linked.in"
+        	url: "https://www.linkedin.com/grp/home?gid=121874"
+        	description: "Large and active group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/iphonedev"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/iOS"
+            description: "Topic on Quora"

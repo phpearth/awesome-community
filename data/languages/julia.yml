@@ -1,0 +1,32 @@
+julia:
+    title: "Julia"
+    description: "Community organized by Julia language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/julia-lang"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://www.reddit.com/r/julia"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/juliaproglang/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/111295162646766639102"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=5144163"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/julia"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Julia-programming-language"
+            description: "Topic on Quora"

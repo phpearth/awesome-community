@@ -1,0 +1,32 @@
+typescript:
+    title: "Typescript"
+    description: "Typescript language related community."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/typescript"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/typescript"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/499941730171077/"
+            description: "Large and active Facebook group"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/communities/113164254175157471366"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/typescript"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=4671277"
+            description: "Large and active Linked.in group"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/TypeScript"
+            description: "Topic on Quora"

@@ -1,0 +1,40 @@
+elixir:
+    title: "Elixir"
+    description: "Community organized by Elixir language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/elixir"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/elixir"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/115770991058707869622"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/elixir-lang"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=6530248"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Elixir-programming-language"
+            description: "Topic on Quora"
+        mailing:
+            title: "Mailing list"
+            url: "https://groups.google.com/group/elixir-lang-talk"
+            description: "Mailing list for questions and answers"
+        slack:
+            title: "Slack"
+            url: "https://elixir-slackin.herokuapp.com/"
+            description: "Officially suggested community on Slack"
+        meetup:
+            title: "Meetup"
+            url: "http://elixir.meetup.com/"
+            description: "Get involved locally"

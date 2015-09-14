@@ -1,0 +1,32 @@
+linux:
+    title: "Linux"
+    description: "Linux related community."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/linux"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://www.reddit.com/r/linux"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/GNUAndLinux/"
+            description: "Large and active Facebook group"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/communities/109254488709825102030"
+            description: "Large and active Google+ group"
+        linkedin:
+        	title: "Linked.in"
+        	url: "https://www.linkedin.com/grp/home?gid=65688"
+        	description: "Large and active group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/linux"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Linux"
+            description: "Topic on Quora"

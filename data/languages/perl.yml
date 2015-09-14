@@ -1,0 +1,43 @@
+perl:
+    title: "Perl"
+    description: "Community organized by Perl language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/perl"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/perl"
+        facebook:
+            title: "Facebook"
+            items:
+                facebook_1:
+                    title: "Facebook"
+                    url: "https://www.facebook.com/groups/perlprogrammers"
+                    description: "Large and active Facebook group"
+                facebook_2:
+                    title: "Facebook"
+                    url: "https://www.facebook.com/groups/perl.mongers/"
+                    description: "Large and active Facebook group"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/105035827361077606043"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/perl"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=106254"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Perl-programming-language-1"
+            description: "Topic on Quora"
+        meetup:
+            title: "Meetup"
+            url: "http://perl.meetup.com/"
+            description: "Meet up with Perl users near you"

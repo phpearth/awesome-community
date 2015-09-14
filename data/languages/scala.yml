@@ -1,0 +1,48 @@
+scala:
+    title: "Scala"
+    description: "Community organized by Scala language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/scala"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/scala"
+        facebook:
+            title: "Facebook"
+            url: "https://www.facebook.com/groups/scala.programming.language/"
+            description: "Large and active Facebook group"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/100488232353575866687"
+            description: "Large and active Google+ group"
+        google:
+            title: "Google group"
+            url: "http://groups.google.com/group/scala-user"
+            description: "Main forum for questions and discussions, including beginner questions"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/scala"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=746917"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Scala"
+            description: "Topic on Quora"
+        scalaspace:
+            title: "Scala Space"
+            url: "http://scala.space/"
+            description: "Find Scala group near you"
+        meetup:
+            title: "Meetup"
+            url: "http://scala.meetup.com/"
+            description: "Meet up with Scala users near you"
+        conferences:
+            title: "Conferences"
+            url: "http://www.scala-lang.org/events/"
+            description: "Find Scala conference"

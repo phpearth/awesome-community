@@ -1,0 +1,36 @@
+coldfusion:
+    title: "Coldfusion"
+    description: "Community organized by Coldfusion language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/coldfusion"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/coldfusion"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://www.facebook.com/groups/CFprogrammers/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/107904082418572935898"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/coldfusion"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=63526"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/ColdFusion"
+            description: "Topic on Quora"
+        meetup:
+            title: "Meetup"
+            url: "http://coldfusion.meetup.com/"
+            description: "Meet up with Coldfusion users near you"

@@ -1,0 +1,37 @@
+clojure:
+    title: "Clojure"
+    description: "Community organized by Clojure language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/clojure"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/clojure"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/clojure/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/103410768849046117338"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/clojure"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=1058217"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Clojure-programming-language"
+            description: "Topic on Quora"
+        meetup:
+            title: "Meetup"
+            url: "http://clojure.meetup.com/"
+            description: "Meet up with Clojure users near you"
+

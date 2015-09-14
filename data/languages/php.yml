@@ -1,0 +1,190 @@
+php:
+    title: "PHP"
+    description: "PHP dynamic scripting language related community."
+    links: 
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "PHP support on StackOverflow"
+            url: http://stackoverflow.com/questions/tagged/php
+        reddit:
+            title: "Reddit"
+            description: "Ask and answer questions, discussion"
+            url: http://www.reddit.com/r/PHP
+        facebook:
+            title: "Facebook"
+            description: "Large and active group on Facebook"
+            url: "https://fb.com/groups/2204685680"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/u/0/communities/104245651975268426012"
+            description: "Large and active group about PHP on Google+"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/PHP-programming-language-1"
+            description: "Ask and answer questions on Quora"
+        irc:
+            title: "IRC"
+            links:
+                irc_1:
+                    title: "#php"
+                    url: "http://irc.lc/freenode/php"
+                    description: "Active support IRC channel for PHP users"
+                irc_2:
+                    title: "#phpc"
+                    url: "http://irc.lc/freenode/phpc"
+                    description: "Active community IRC channel for PHP users"
+        phpug:
+            title: "php.ug"
+            url: "http://php.ug"
+            description: "Map of local PHP user groups"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=42140"
+            description: "Discussion group on Linked.in for PHP developers"
+        phpclasses:
+            title: "PHP Classes"
+            url: "http://www.phpclasses.org/discuss/"
+            description: "PHP specialists forum"
+    items:
+        cakephp:
+            title: "CakePHP"
+            description: "Community organized by CakePHP framework interes."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/cakephp"
+                    description: "Support on StackOverflow"
+                reddit:
+                    title: "Reddit"
+                    url: "http://www.reddit.com/r/cakephp"
+                    description: "Ask and answer questions, discussion"
+                facebook:
+                    "Facebook"
+                    url: "https://www.facebook.com/groups/cake.community/"
+                    description: "Large and active Facebook group"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/108328920558088369819"
+                    description: "Large and active group on Google+"
+                google:
+                    title: "Google group"
+                    url: "https://groups.google.com/forum/#!forum/cake-php"
+                    description: "Discussion group for the project"
+                irc:
+                    title: "IRC"
+                    url: "http://irc.lc/freenode/cakephp"
+                    description: "Large and active IRC channel"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/groups?gid=82040"
+                    description: "Large and active group on Linked.in"
+                quora:
+                    "Quora"
+                    url: "https://www.quora.com/CakePHP"
+                    description: "Topic on Quora"
+        laravel:
+            title: "Laravel"
+            description: "Community organized by Laravel PHP framework interes."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/laravel"
+                    description: "Laravel support on StackOverflow"
+                reddit:
+                    title: "Reddit"
+                    url: "http://www.reddit.com/r/laravel"
+                    description: "Ask and answer questions, discussion"
+                google:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/106838454910116161868"
+                    description: "Large and active group about Laravel on Google+"
+                forums:
+                    title: "Laravel forums"
+                    links:
+                        laravelio:
+                            title: "Laravel.io"
+                            url: "http://laravel.io/forum"
+                            description: "Laravel.io forums"
+                        laracasts:
+                            title: "Laracasts discussions"
+                            url: "https://laracasts.com/discuss"
+                            description: "Discussions on Laracasts"
+                irc:
+                    title: "IRC"
+                    url: "http://irc.lc/freenode/laravel"
+                    description: "Active IRC channel for Laravel support"
+                linkedin:
+                    title: "Linked.in
+                    url: "https://www.linkedin.com/grp/home?gid=4419933"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/Laravel"
+                    description: "Laravel topics on Quora"
+        symfony:
+            title: "Symfony"
+            description: "Community organized by Symfony PHP framework interes."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/symfony"
+                    description: "Symfony support on StackOverflow"
+                reddit:
+                    title: "Reddit"
+                    url: "http://www.reddit.com/r/symfony"
+                    description: "Ask and answer questions, discussion"
+                facebook:
+                    title: "Facebook"
+                    url: "https://fb.com/groups/7672226565"
+                    description: "Large and active group on Facebook"
+                google:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/109013871316146116610"
+                    description: "Large and active group about Symfony on Google+"
+                irc:
+                    title: "IRC"
+                    url: "http://irc.lc/freenode/symfony"
+                    description: "Active IRC channel for Symfony support"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=29205"
+                    description: "Large and active group on Linked.in"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/Symfony"
+                    description: "Symfony topics on Quora"
+        zend:
+            title: "Zend framework"
+            description: "Community organized by Zend Framework interes."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/zend-framework"
+                    description: "Support on StackOverflow"
+                reddit:
+                    title: "Reddit"
+                    url: "https://www.reddit.com/r/zftalk/"
+                    description: "Ask and answer questions, discussion"
+                facebook:
+                    title: "Facebook"
+                    url: "https://www.facebook.com/groups/zendframework2/"
+                    description: "Large and active group on Facebook"
+                google:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/115348461699286787401"
+                    description: "Large and active group on Google+"
+                IRC:
+                    title: "IRC"
+                    url: "http://irc.lc/freenode/zftalk"
+                    title: "Active IRC channel"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=728287"
+                    description: "Large and active group on Linked.in"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/Zend-Framework-1"
+                    description: "Zend Framework topics on Quora"
+                ug:
+                    title: "User Groups"
+                    url: "http://framework.zend.com/participate/user-groups/"
+                    description: "Zend Framework usergroups"

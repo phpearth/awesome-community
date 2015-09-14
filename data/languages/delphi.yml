@@ -1,0 +1,36 @@
+delphi:
+    title: "Delphi"
+    description: "Community organized by Delphi language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/delphi"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://reddit.com/r/delphi"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/137012246341854/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/103113685381486591754"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/delphi"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=101829"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Delphi-programming-language"
+            description: "Topic on Quora"
+        forum:
+            title: "Embaracedro Forum"
+            url: "https://forums.embarcadero.com/category.jspa?categoryID=12"
+            description: "Forums on Embaracedro network"

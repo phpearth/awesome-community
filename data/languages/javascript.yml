@@ -1,0 +1,181 @@
+javascript:
+    title: "JavaScript"
+    description: "Community organized by JavaScript language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/javascript"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "http://www.reddit.com/r/JavaScript"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/JavaScript.Programming/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/100875929141897651837"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=121615"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/javascript"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/JavaScript-programming-language"
+            description: "Topic on Quora"
+        local:
+            title: "Local user groups"
+            url: "https://wiki.haskell.org/User_groups"
+            description: "Get involved locally"
+        meetup:
+            title: "Meetup"
+            url: "http://javascript.meetup.com/"
+            description: "Get involved locally"
+    items:
+        angularjs:
+            title: "AngularJS"
+            description: "Community organized by AngularJS framework"
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    description: "Support on Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/angularjs"
+                reddit:
+                    title: "Reddit"
+                    description: "Discussion forum on Reddit"
+                    url: "http://www.reddit.com/r/angularjs"
+                facebook:
+                    title: "Facebook"
+                    description: "Large and active Facebook group"
+                    url: "https://fb.com/groups/AngularJS2/"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/115368820700870330756"
+                    description: "Large and active Google+ group"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=4896676"
+                    description: "Group on Linked.in"
+                irc:
+                    title: "IRC
+                    url: "http://irc.lc/freenode/angularjs"
+                    description: "Large and active IRC channel"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/AngularJS"
+                    description: "Topic on Quora"
+        dojo:
+            title: "Dojo Toolkit"
+            description: "Community organized by Dojo Toolkit interest."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    description: "Support on Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/dojo"
+                reddit:
+                    title: "Reddit"
+                    description: "Discussion forum on Reddit"
+                    url: "http://reddit.com/r/dojo"
+                facebook:
+                    title: "Facebook"
+                    description: "Large and active Facebook group"
+                    url: "https://fb.com/groups/4375511291/"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/107837593684207188221"
+                    description: "Large and active Google+ group"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=71399"
+                    description: "Group on Linked.in"
+                irc:
+                    title: "IRC
+                    url: "http://irc.lc/freenode/dojo"
+                    description: "Large and active IRC channel"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/Dojo-JavaScript-toolkit"
+                    description: "Topic on Quora"
+        jquery:
+            title: "jQuery"
+            description: "Community organized by jQuery interest."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    description: "Support on Stack Overflow"
+                    url: "http://stackoverflow.com/tags/jquery"
+                reddit:
+                    title: "Reddit"
+                    description: "Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects"
+                    url: "https://www.reddit.com/r/jquery"
+                facebook:
+                    title: "Facebook"
+                    description: "Large and active Facebook group"
+                    url: "https://www.facebook.com/groups/jquerycode/"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/106546344682622800231"
+                    description: "Large and active Google+ group"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=100943"
+                    description: "Group on Linked.in"
+                irc:
+                    title: "IRC
+                    url: "http://irc.lc/freenode/jquery"
+                    description: "Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/jQuery"
+                    description: "Topic on Quora"
+                forum:
+                    title: "Forum"
+                    url: "https://forum.jquery.com/"
+                    description: "Official forums"
+                meetup:
+                    title: "Meetup"
+                    url: "http://jquery.meetup.com"
+                    description: "Get involved locally"
+        react:
+            title: "React"
+            description: "Community organized by React interest."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    description: "Support on Stack Overflow"
+                    url: "http://stackoverflow.com/tags/reactjs"
+                reddit:
+                    title: "Reddit"
+                    description: "Discussion on Reddit"
+                    url: "https://www.reddit.com/r/reactjs"
+                facebook:
+                    title: "Facebook"
+                    description: "Large and active Facebook group"
+                    url: "https://www.facebook.com/groups/228321510706889"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/114822536557370957541"
+                    description: "Large and active Google+ group"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=7465439"
+                    description: "Group on Linked.in"
+                irc:
+                    title: "IRC
+                    url: "http://irc.lc/freenode/reactjs"
+                    description: "Support IRC channel"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/React-JS-Library"
+                    description: "Topic on Quora"
+                meetup:
+                    title: "Meetup"
+                    url: "http://reactjs.meetup.com/"
+                    description: "Get involved locally"

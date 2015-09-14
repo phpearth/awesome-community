@@ -1,0 +1,65 @@
+ruby:
+    title: "Ruby"
+    description: "Community organized by Ruby language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/ruby"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/ruby"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/2221017023/"
+            description: "Large and active Facebook group"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/101878695540653445908"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/ruby"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Ruby-programming-language"
+            description: "Topic on Quora"
+        meetup:
+            title: "Meetup"
+            url: "http://ruby.meetup.com/"
+            description: "Meet up with Ruby users near you"
+    items:
+        ror:
+            title: "Ruby on Rails"
+            description: "Community organized by Ruby on Rails framework interest."
+            links:
+                stackoverflow:
+                    title: "Stack Overflow"
+                    description: "Support on Stack Overflow"
+                    url: "http://stackoverflow.com/questions/tagged/ruby-on-rails"
+                reddit:
+                    title: "Reddit"
+                    description: "Discussion forum on Reddit"
+                    url: "https://www.reddit.com/r/rubyonrails"
+                facebook:
+                    title: "Facebook"
+                    url: "https://fb.com/groups/railsrocks"
+                    description: "Large and active Facebook group"
+                googleplus:
+                    title: "Google+"
+                    url: "https://plus.google.com/communities/102406850580404903942"
+                    description: "Large and active Google+ group"
+                linkedin:
+                    title: "Linked.in"
+                    url: "https://www.linkedin.com/grp/home?gid=22413"
+                    description: "Large and active group on Linked.in"
+                irc:
+                    title: "IRC
+                    url: "http://irc.lc/freenode/RubyOnRails"
+                    description: "Large and active IRC channel"
+                quora:
+                    title: "Quora"
+                    url: "https://www.quora.com/Ruby-on-Rails-web-framework"
+                    description: "Topic on Quora"

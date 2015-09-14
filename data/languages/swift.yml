@@ -1,0 +1,32 @@
+swift:
+    title: "Swift"
+    description: "Community organized by Swift language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/swift"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/swift"
+        facebook:
+            title: "Facebook"
+            url: "https://fb.com/groups/swiftiosdev"
+            description: "Large and active Facebook group"
+        google:
+            title: "Google+"
+            url: "https://plus.google.com/communities/113458166730005193635"
+            description: "Large and active Google+ group"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/swift-lang"
+            description: "Large and active IRC channel"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/grp/home?gid=8119756"
+            description: "Large and active group on Linked.in"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Apple-Swift-programming-language"
+            description: "Topic on Quora"

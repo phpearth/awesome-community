@@ -1,0 +1,36 @@
+haskell:
+    title: "Haskell"
+    description: "Community organized by Haskell language interest."
+    links:
+        stackoverflow:
+            title: "Stack Overflow"
+            description: "Support on Stack Overflow"
+            url: "http://stackoverflow.com/questions/tagged/haskell"
+        reddit:
+            title: "Reddit"
+            description: "Discussion forum on Reddit"
+            url: "https://www.reddit.com/r/haskell"
+        facebook:
+            title: "Facebook"
+            description: "Large and active Facebook group"
+            url: "https://fb.com/groups/programming.haskell/"
+        googleplus:
+            title: "Google+"
+            url: "https://plus.google.com/communities/104818126031270146189"
+            description: "Large and active Google+ group"
+        linkedin:
+            title: "Linked.in"
+            url: "https://www.linkedin.com/groups?gid=81034"
+            description: "Group on Linked.in"
+        irc:
+            title: "IRC
+            url: "http://irc.lc/freenode/haskell"
+            description: "Large and active IRC channel"
+        quora:
+            title: "Quora"
+            url: "https://www.quora.com/Haskell-programming-language"
+            description: "Topic on Quora"
+        local:
+            title: "Local user groups"
+            url: "https://wiki.haskell.org/User_groups"
+            description: "Get involved locally"
