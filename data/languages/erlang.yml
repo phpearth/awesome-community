@@ -1,28 +1,27 @@
-erlang:
-    title: "Erlang"
-    description: "Community organized by Erlang language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/erlang"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/erlang"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/116304504166177020233"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/erlang"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/grp/home?gid=60972"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Erlang-programming-language"
-            description: "Topic on Quora"
+title: "Erlang"
+description: "Community organized by Erlang language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/erlang"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/erlang"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/116304504166177020233"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/erlang"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=60972"
+        description: "Large and active group on Linked.in"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/Erlang-programming-language"
+        description: "Topic on Quora"

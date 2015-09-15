@@ -1,36 +1,35 @@
-cpp:
-    title: "C++"
-    description: "Community organized by C++ programming language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/c++"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/cpp"
-        facebook:
-            title: "Facebook"
-            description: "Large and active Facebook group"
-            url: "https://fb.com/groups/226823534127108/"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/116007775542700637383"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/c++"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/groups?gid=86782"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/C++-programming-language"
-            description: "Topic on Quora"
-        meetup:
-            title: "Meetup"
-            url: "http://c.meetup.com/"
-            description: "Meet up with C and C++ users near you"
+title: "C++"
+description: "Community organized by C++ programming language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/c++"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/cpp"
+    link_3:
+        title: "Facebook"
+        description: "Large and active Facebook group"
+        url: "https://fb.com/groups/226823534127108/"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/116007775542700637383"
+        description: "Large and active Google+ group"
+    link_5:
+        title: "IRC"
+        url: "http://irc.lc/freenode/c++"
+        description: "Large and active IRC channel"
+    link_6:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/groups?gid=86782"
+        description: "Large and active group on Linked.in"
+    link_7:
+        title: "Quora"
+        url: "https://www.quora.com/C++-programming-language"
+        description: "Topic on Quora"
+    link_8:
+        title: "Meetup"
+        url: "http://c.meetup.com/"
+        description: "Meet up with C and C++ users near you"

@@ -1,24 +1,23 @@
-cordova:
-    title: "Cordova"
-    description: 'Community organized by <a href="http://cordova.apache.org/">Cordova</a> - open-source, cross-device mobile development platform interest.'
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/cordova"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/Cordova/"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/112773525639167827403"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/cordova"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Apache-Cordova"
-            description: "Topic on Quora"
+title: "Cordova"
+description: 'Community organized by <a href="http://cordova.apache.org/">Cordova</a> - open-source, cross-device mobile development platform interest.'
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/cordova"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/Cordova/"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/112773525639167827403"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/cordova"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Quora"
+        url: "https://www.quora.com/Apache-Cordova"
+        description: "Topic on Quora"

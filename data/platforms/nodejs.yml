@@ -1,32 +1,31 @@
-nodejs:
-    title: "Node.js"
-    description: "Node.js related community."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/node.js"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "http://reddit.com/r/node"
-        facebook:
-            title: "Facebook"
-            url: "https://www.facebook.com/groups/125499867491756/"
-            description: "Large and active Facebook group"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/115365528781941125390"
-            description: "Large and active Google+ group"
-        linkedin:
-        	title: "Linked.in"
-        	url: "https://www.linkedin.com/groups?gid=2906459"
-        	description: "Large and active group on Linked.in"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/Node.js"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Node-js"
-            description: "Topic on Quora"
+title: "Node.js"
+description: "Node.js related community."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/node.js"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "http://reddit.com/r/node"
+    link_3:
+        title: "Facebook"
+        url: "https://www.facebook.com/groups/125499867491756/"
+        description: "Large and active Facebook group"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/115365528781941125390"
+        description: "Large and active Google+ group"
+    link_5:
+    	title: "Linked.in"
+    	url: "https://www.linkedin.com/groups?gid=2906459"
+    	description: "Large and active group on Linked.in"
+    link_6:
+        title: "IRC"
+        url: "http://irc.lc/freenode/Node.js"
+        description: "Large and active IRC channel"
+    link_7:
+        title: "Quora"
+        url: "https://www.quora.com/Node-js"
+        description: "Topic on Quora"

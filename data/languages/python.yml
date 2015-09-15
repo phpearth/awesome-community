@@ -1,36 +1,35 @@
-python:
-    title: "Python"
-    description: "Community organized by Python language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/python"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/python"
-        facebook:
-            title: "Facebook"
-            description: "Large and active Facebook group"
-            url: "https://fb.com/groups/pythonears/"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/103393744324769547228"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/python"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/groups?gid=25827"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Python-programming-language-1"
-            description: "Topic on Quora"
-        meetup:
-            title: "Meetup"
-            url: "http://python.meetup.com/"
-            description: "Meet up with Rust users near you"
+title: "Python"
+description: "Community organized by Python language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/python"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/python"
+    link_3:
+        title: "Facebook"
+        description: "Large and active Facebook group"
+        url: "https://fb.com/groups/pythonears/"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/103393744324769547228"
+        description: "Large and active Google+ group"
+    link_5:
+        title: "IRC"
+        url: "http://irc.lc/freenode/python"
+        description: "Large and active IRC channel"
+    link_6:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/groups?gid=25827"
+        description: "Large and active group on Linked.in"
+    link_7:
+        title: "Quora"
+        url: "https://www.quora.com/Python-programming-language-1"
+        description: "Topic on Quora"
+    link_8:
+        title: "Meetup"
+        url: "http://python.meetup.com/"
+        description: "Meet up with Rust users near you"

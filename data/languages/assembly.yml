@@ -1,28 +1,27 @@
-assembly:
-    title: "Assembly"
-    description: "Assembly programming language related community."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/assembly"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/asm"
-        facebook:
-            title: "Facebook"
-            url: "https://fb.com/groups/40173965319/"
-            description: "Large and active Facebook group"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/101939836280904288522"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/asm"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Assembly-Language"
-            description: "Topic on Quora"
+title: "Assembly"
+description: "Assembly programming language related community."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/assembly"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/asm"
+    link_3:
+        title: "Facebook"
+        url: "https://fb.com/groups/40173965319/"
+        description: "Large and active Facebook group"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/101939836280904288522"
+        description: "Large and active Google+ group"
+    link_5:
+        title: "IRC"
+        url: "http://irc.lc/freenode/asm"
+        description: "Large and active IRC channel"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/Assembly-Language"
+        description: "Topic on Quora"

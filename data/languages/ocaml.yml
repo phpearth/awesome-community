@@ -1,28 +1,27 @@
-ocaml:
-    title: "OCaml"
-    description: "Community organized by OCaml language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/ocaml"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/ocaml"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/100872177392545601885"
-            description: "Large and active Google+ group"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/groups?gid=144434"
-            description: "Group on Linked.in"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/ocaml"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/OCaml-programming-language"
-            description: "Topic on Quora"
+title: "OCaml"
+description: "Community organized by OCaml language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/ocaml"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/ocaml"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/100872177392545601885"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/groups?gid=144434"
+        description: "Group on Linked.in"
+    link_5:
+        title: "IRC"
+        url: "http://irc.lc/freenode/ocaml"
+        description: "Large and active IRC channel"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/OCaml-programming-language"
+        description: "Topic on Quora"

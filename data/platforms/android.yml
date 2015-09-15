@@ -1,39 +1,38 @@
-android:
-    title: "Android"
-    description: 'Community organized by <a href="https://www.android.com/">Android</a> platform interest.'
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/android"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/android"
-        facebook:
-            title: "Facebook"
-            url: "https://www.facebook.com/groups/AndroidProgramming/"
-            description: "Large and active Facebook group"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/100821581565823788798"
-            description: "Large and active Google+ group"
-        linkedin:
-        	title: "Linked.in"
-        	url: "https://www.linkedin.com/grp/home?gid=86481"
-        	description: "Large and active group on Linked.in"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/android"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            items:
-                quora_1:
-                    title: "Android Applications"
-                    url: "https://www.quora.com/Android-Applications"
-                    description: "Topic on Quora about Android Applications"
-                quora_2:
-                    title: "Android Operating System"
-                    url: "https://www.quora.com/Android-operating-system"
-                    description: "Topic on Quora about Android OS"
+title: "Android"
+description: "Community organized by <a href=\"https://www.android.com/\">Android</a> platform interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/android"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/android"
+    link_3:
+        title: "Facebook"
+        url: "https://www.facebook.com/groups/AndroidProgramming/"
+        description: "Large and active Facebook group"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/100821581565823788798"
+        description: "Large and active Google+ group"
+    link_5:
+    	title: "Linked.in"
+    	url: "https://www.linkedin.com/grp/home?gid=86481"
+    	description: "Large and active group on Linked.in"
+    link_6:
+        title: "IRC"
+        url: "http://irc.lc/freenode/android"
+        description: "Large and active IRC channel"
+    quora:
+        title: "Quora"
+        items:
+            item_1:
+                title: "Android Applications"
+                url: "https://www.quora.com/Android-Applications"
+                description: "Topic on Quora about Android Applications"
+            item_2:
+                title: "Android Operating System"
+                url: "https://www.quora.com/Android-operating-system"
+                description: "Topic on Quora about Android OS"

@@ -1,32 +1,31 @@
-rust:
-    title: "Scala"
-    description: "Community organized by Rust language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/rust"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/rust"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/115152292505513839896"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/rust"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/grp/home?gid=4973032"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Rust-programming-language"
-            description: "Topic on Quora"
-        meetup:
-            title: "Meetup"
-            url: "http://rust.meetup.com/"
-            description: "Meet up with Rust users near you"
+title: "Scala"
+description: "Community organized by Rust language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/rust"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/rust"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/115152292505513839896"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/rust"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=4973032"
+        description: "Large and active group on Linked.in"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/Rust-programming-language"
+        description: "Topic on Quora"
+    link_7:
+        title: "Meetup"
+        url: "http://rust.meetup.com/"
+        description: "Meet up with Rust users near you"

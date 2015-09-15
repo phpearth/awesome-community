@@ -1,8 +1,7 @@
-electron:
-    title: "Electron"
-    description: 'Community organized by <a href="http://electron.atom.io/">Electron</a> platform interest for building cross platform desktop apps.'
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/electron"
+title: "Electron"
+description: 'Community organized by <a href="http://electron.atom.io/">Electron</a> platform interest for building cross platform desktop apps.'
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/electron"

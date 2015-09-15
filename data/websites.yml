@@ -1,28 +1,27 @@
-websites:
-  title: "By website"
-  description: "Some important websites where cool developers hang out and give back to the community."
-  links:
-    meetup:
-      title: "Meetup"
-      description: "Find Meetups and meet people in your local community who share your interests"
-      url: http://meetup.com/
-    quora:
-      title: "Quora"
-      description: "Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community"
-      url: https://www.quora.com/
-    reddit:
-      title: "Reddit"
-      description: "Reddit is an entertainment, social networking, and news website with lots of forums for developers."
-      url: http://reddit/
-    sitepoint:
-      title: "Sitepoint Forums"
-      description: "Sitepoint community forums for developers"
-      url: http://community.sitepoint.com/
-    slack:
-      title: "Slack"
-      description: "Platform for team communication: everything in one place, instantly searchable and available"
-      url: http://slack.com/
-    stackoverflow:
-      title: "Stack Overflow"
-      description: "A language-independent collaboratively edited question and answer site for programmers"
-      url: http://stackoverflow.com/
+title: "By website"
+description: "Some important websites where cool developers hang out and give back to the community."
+links:
+    link_1:
+        title: "Meetup"
+        description: "Find Meetups and meet people in your local community who share your interests"
+        url: "http://meetup.com/"
+    link_2:
+        title: "Quora"
+        description: "Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community"
+        url: "https://www.quora.com/"
+    link_3:
+        title: "Reddit"
+        description: "Reddit is an entertainment, social networking, and news website with lots of forums for developers."
+        url: "http://reddit/"
+    link_4:
+        title: "Sitepoint Forums"
+        description: "Sitepoint community forums for developers"
+        url: "http://community.sitepoint.com/"
+    link_5:
+        title: "Slack"
+        description: "Platform for team communication: everything in one place, instantly searchable and available"
+        url: "http://slack.com/"
+    link_6:
+        title: "Stack Overflow"
+        description: "A language-independent collaboratively edited question and answer site for programmers"
+        url: "http://stackoverflow.com/"

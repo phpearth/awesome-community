@@ -1,32 +1,31 @@
-commonlisp:
-    title: "CommonLisp"
-    description: "Community organized by CommonLisp language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/common-lisp"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "http://reddit.com/r/common_lisp"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/101016130241925650833"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/lisp"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/groups?gid=830547"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Common-Lisp"
-            description: "Topic on Quora"
-        meetup:
-            title: "Meetup"
-            url: "http://lisp.meetup.com/"
-            description: "Meet up with CommonLisp users near you"
+title: "CommonLisp"
+description: "Community organized by CommonLisp language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/common-lisp"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "http://reddit.com/r/common_lisp"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/101016130241925650833"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/lisp"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/groups?gid=830547"
+        description: "Large and active group on Linked.in"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/Common-Lisp"
+        description: "Topic on Quora"
+    link7:
+        title: "Meetup"
+        url: "http://lisp.meetup.com/"
+        description: "Meet up with CommonLisp users near you"

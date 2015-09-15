@@ -1,28 +1,27 @@
-elm:
-    title: "Elm"
-    description: "Community organized by Elm language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/elm"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/elm"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/105099287679008690846"
-            description: "Only Google+ group for Elm users"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/elm"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Elm-programming-language"
-            description: "Topic on Quora"
-        mailing:
-            title: "Mailing list"
-            url: "https://groups.google.com/forum/?fromgroups#!forum/elm-discuss"
-            description: "Mailing list for questions and answers"
+title: "Elm"
+description: "Community organized by Elm language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/elm"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/elm"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/105099287679008690846"
+        description: "Only Google+ group for Elm users"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/elm"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Quora"
+        url: "https://www.quora.com/Elm-programming-language"
+        description: "Topic on Quora"
+    link_6:
+        title: "Mailing list"
+        url: "https://groups.google.com/forum/?fromgroups#!forum/elm-discuss"
+        description: "Mailing list for questions and answers"

@@ -1,36 +1,35 @@
-reactnative:
-    title: "ReactNative"
-    description: "React Native related community."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/react-native"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/reactnative/"
-        facebook:
-            title: "Facebook"
-            url: "https://fb.com/groups/react.native.community/"
-            description: "Large and active Facebook group"
-        google:
-            title: "Google+"
-            url: "https://plus.google.com/communities/114615105301012300275"
-            description: "Large and active Google+ group"
-        linkedin:
-        	title: "Linked.in"
-        	url: "https://www.linkedin.com/grp/home?gid=8301103"
-        	description: "Large and active group on Linked.in"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/reactnative"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/React-Native-Facebook"
-            description: "Topic on Quora"
-        forum:
-        	title: "Forum"
-        	url: "https://discuss.reactjs.org/"
-        	description: "Official forums"
+title: "ReactNative"
+description: "React Native related community."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/react-native"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/reactnative/"
+    link_3:
+        title: "Facebook"
+        url: "https://fb.com/groups/react.native.community/"
+        description: "Large and active Facebook group"
+    link_4:
+        title: "Google+"
+        url: "https://plus.google.com/communities/114615105301012300275"
+        description: "Large and active Google+ group"
+    link_5:
+    	title: "Linked.in"
+    	url: "https://www.linkedin.com/grp/home?gid=8301103"
+    	description: "Large and active group on Linked.in"
+    link_6:
+        title: "IRC"
+        url: "http://irc.lc/freenode/reactnative"
+        description: "Large and active IRC channel"
+    link_7:
+        title: "Quora"
+        url: "https://www.quora.com/React-Native-Facebook"
+        description: "Topic on Quora"
+    link_8:
+    	title: "Forum"
+    	url: "https://discuss.reactjs.org/"
+    	description: "Official forums"

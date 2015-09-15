@@ -1,24 +1,23 @@
-watchos:
-    title: "WatchOS"
-    description: "WatchOS related community."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/apple-watch"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/applewatch"
-        facebook:
-            title: "Facebook"
-            url: "https://www.facebook.com/groups/AppleWatchDevs/"
-            description: "Large and active Facebook group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/watchOS"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "http://www.quora.com/Apple-Watch-2"
-            description: "Topic on Quora"
+title: "WatchOS"
+description: "WatchOS related community."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/apple-watch"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/applewatch"
+    link_3:
+        title: "Facebook"
+        url: "https://www.facebook.com/groups/AppleWatchDevs/"
+        description: "Large and active Facebook group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/watchOS"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Quora"
+        url: "http://www.quora.com/Apple-Watch-2"
+        description: "Topic on Quora"

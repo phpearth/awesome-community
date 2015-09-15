@@ -1,24 +1,23 @@
-crystal:
-    title: "Crystal"
-    description: "Community organized by Coldfusion language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/crystal_programming"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "http://reddit.com/r/crystal_programming"
-        google:
-            title: "Google group"
-            url: "https://groups.google.com/forum/?fromgroups#!forum/crystal-lang"
-            description: "Large and active Google group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/crystal-lang"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Crystal-programming-language"
-            description: "Topic on Quora"
+title: "Crystal"
+description: "Community organized by Coldfusion language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/crystal_programming"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "http://reddit.com/r/crystal_programming"
+    link_3:
+        title: "Google group"
+        url: "https://groups.google.com/forum/?fromgroups#!forum/crystal-lang"
+        description: "Large and active Google group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/crystal-lang"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Quora"
+        url: "https://www.quora.com/Crystal-programming-language"
+        description: "Topic on Quora"

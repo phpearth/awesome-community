@@ -1,28 +1,27 @@
-lua:
-    title: "Lua"
-    description: "Community organized by Lua language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/lua"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "http://www.reddit.com/r/lua"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/100192842414978081455"
-            description: "Large and active Google+ group"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/grp/home?gid=101255"
-            description: "Group on Linked.in"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/lua"
-            description: "Large and active IRC channel"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Lua-programming-language"
-            description: "Topic on Quora"
+title: "Lua"
+description: "Community organized by Lua language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/lua"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "http://www.reddit.com/r/lua"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/100192842414978081455"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=101255"
+        description: "Group on Linked.in"
+    link_5:
+        title: "IRC"
+        url: "http://irc.lc/freenode/lua"
+        description: "Large and active IRC channel"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/Lua-programming-language"
+        description: "Topic on Quora"

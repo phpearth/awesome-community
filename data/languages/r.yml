@@ -1,36 +1,35 @@
-r:
-    title: "R"
-    description: "Community organized by R language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/r"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/Rlanguage"
-        googleplus:
-            title: "Google+"
-            url: "https://plus.google.com/communities/115516770321395255377"
-            description: "Large and active Google+ group"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/R"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/groups?gid=7464608"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/R-Programming"
-            description: "Topic on Quora"
-        meetup:
-            title: "Meetup"
-            url: "http://r-users-group.meetup.com/"
-            description: "Meet up with Rust users near you"
-        conferences:
-            title: "Conferences"
-            url: "https://www.r-project.org/conferences.html"
-            description: "Find conference about R language"
+title: "R"
+description: "Community organized by R language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/r"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/Rlanguage"
+    link_3:
+        title: "Google+"
+        url: "https://plus.google.com/communities/115516770321395255377"
+        description: "Large and active Google+ group"
+    link_4:
+        title: "IRC"
+        url: "http://irc.lc/freenode/R"
+        description: "Large and active IRC channel"
+    link_5:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/groups?gid=7464608"
+        description: "Large and active group on Linked.in"
+    link_6:
+        title: "Quora"
+        url: "https://www.quora.com/R-Programming"
+        description: "Topic on Quora"
+    link_7:
+        title: "Meetup"
+        url: "http://r-users-group.meetup.com/"
+        description: "Meet up with Rust users near you"
+    link_8:
+        title: "Conferences"
+        url: "https://www.r-project.org/conferences.html"
+        description: "Find conference about R language"

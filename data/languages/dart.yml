@@ -1,24 +1,23 @@
-dart:
-    title: "Dart"
-    description: "Community organized by Dart language interest."
-    links:
-        stackoverflow:
-            title: "Stack Overflow"
-            description: "Support on Stack Overflow"
-            url: "http://stackoverflow.com/questions/tagged/dart"
-        reddit:
-            title: "Reddit"
-            description: "Discussion forum on Reddit"
-            url: "https://www.reddit.com/r/dartlang/"
-        irc:
-            title: "IRC
-            url: "http://irc.lc/freenode/dart"
-            description: "Large and active IRC channel"
-        linkedin:
-            title: "Linked.in"
-            url: "https://www.linkedin.com/grp/home?gid=4124554"
-            description: "Large and active group on Linked.in"
-        quora:
-            title: "Quora"
-            url: "https://www.quora.com/Dart-programming-language"
-            description: "Topic on Quora"
+title: "Dart"
+description: "Community organized by Dart language interest."
+links:
+    link_1:
+        title: "Stack Overflow"
+        description: "Support on Stack Overflow"
+        url: "http://stackoverflow.com/questions/tagged/dart"
+    link_2:
+        title: "Reddit"
+        description: "Discussion forum on Reddit"
+        url: "https://www.reddit.com/r/dartlang/"
+    link_3:
+        title: "IRC"
+        url: "http://irc.lc/freenode/dart"
+        description: "Large and active IRC channel"
+    link_4:
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=4124554"
+        description: "Large and active group on Linked.in"
+    link_5:
+        title: "Quora"
+        url: "https://www.quora.com/Dart-programming-language"
+        description: "Topic on Quora"
