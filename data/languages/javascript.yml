@@ -37,6 +37,10 @@ links:
         title: "Meetup"
         url: "http://javascript.meetup.com/"
         description: "Get involved locally"
+    link_10:
+        title: "Conferences"
+        url: "http://jsconf.com/"
+        description: "Conferences for the JavaScript community"
 items:
     item_1:
         title: "AngularJS"
