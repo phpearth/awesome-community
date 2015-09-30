@@ -1,27 +1,31 @@
 title: "By website"
 description: "Some important websites where cool developers hang out and give back to the community."
 links:
-    link_1:
+    hackernews:
+        title: "Hacker News"
+        description: "Latest and in-depth technical news about hHacking, technology, security, cyber, vulnerabilities, privacy and similar technical discussions"
+        url: "https://news.ycombinator.com"
+    meetup:
         title: "Meetup"
         description: "Find Meetups and meet people in your local community who share your interests"
         url: "http://meetup.com/"
-    link_2:
+    quora:
         title: "Quora"
         description: "Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community"
         url: "https://www.quora.com/"
-    link_3:
+    reddit:
         title: "Reddit"
         description: "Reddit is an entertainment, social networking, and news website with lots of forums for developers."
         url: "http://reddit/"
-    link_4:
+    sitepoint:
         title: "Sitepoint Forums"
         description: "Sitepoint community forums for developers"
         url: "http://community.sitepoint.com/"
-    link_5:
+    slack:
         title: "Slack"
         description: "Platform for team communication: everything in one place, instantly searchable and available"
         url: "http://slack.com/"
-    link_6:
+    stackoverflow:
         title: "Stack Overflow"
         description: "A language-independent collaboratively edited question and answer site for programmers"
         url: "http://stackoverflow.com/"
