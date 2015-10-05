@@ -32,6 +32,7 @@ Inspired by the `awesome-*` trend on GitHub.
 	* [React Native](#react-native)
 	* [Xamarin](#xamarin)
 	* [watchOS](#watchos)
+* [Miscellaneous](#miscellaneous)
 * [Resources](#resources)
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
@@ -776,6 +777,13 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Reddit](https://www.reddit.com/r/applewatch) - discussion forum on Reddit
 * [Facebook](https://www.facebook.com/groups/AppleWatchDevs/) - large and active Facebook group
 * [IRC](http://irc.lc/freenode/watchOS/) - IRC channel
+
+[Back to top](#awesome-community)
+
+
+## Miscellaneous
+
+*Groups, communities and clubs of miscellaneous context types.*
 
 [Back to top](#awesome-community)
 
