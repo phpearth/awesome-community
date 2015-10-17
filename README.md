@@ -20,20 +20,23 @@ Inspired by the `awesome-*` trend on GitHub.
     | [Assembly](#assembly)<br>[AutoHotkey](#autohotkey)<br>[AutoIt](#autoit)<br>[C](#c)<br>[C++](#c-1)<br>[Clojure](#clojure)<br>[Coldfusion](#coldfusion)<br>[Common Lisp](#common-lisp) | [Crystal](#crystal)<br>[D](#d)<br>[Dart](#dart)<br>[Delphi](#delphi)<br>[Elixir](#elixir)<br>[Elm](#elm)<br>[Erlang](#erlang)<br>[Fortran](#fortran) | [Go](#go)<br>[Groovy](#groovy)<br>[Haskell](#haskell)<br>[Java](#java)<br>[JavaScript](#javascript)<br>— [AngularJS](#angularjs)<br>— [Dojo Toolkit](#dojo-toolkit)<br>— [jQuery](#jquery)<br>— [React](#react) | [Julia](#julia)<br>[Lua](#lua)<br>[OCaml](#ocaml)<br>[Perl](#perl)<br>[PHP](#php)<br>— [Laravel](#laravel)<br>— [CakePHP](#cakephp)<br>— [Symfony](#symfony)<br>— [Zend Framwork](#zend-framework)<br>[PureScript](#purescript) | [Python](#python)<br>[R](#r)<br>[Ruby](#ruby)<br>— [Ruby on Rails](#ruby-on-rails)<br>[Rust](#rust)<br>[Scala](#scala)<br>[Swift](#swift)<br>[TypeScript](#typescript) |
 
 * [By platform](#by-platform)
-	* [.NET](#net)
-	* [Android](#android)
-	* [Cordova](#cordova)
-	* [Electron](#electron)
+    * [.NET](#net)
+    * [Android](#android)
+    * [Cordova](#cordova)
+    * [Electron](#electron)
     * [Frontend Development](#frontend-development)
-	* [Hybrid Apps](#hybrid-apps)
+    * [Hybrid Apps](#hybrid-apps)
     * [iOS](#ios)
-	* [Linux](#linux)
+    * [Linux](#linux)
     * [Node.js](#nodejs)
-	* [React Native](#react-native)
-	* [Xamarin](#xamarin)
-	* [watchOS](#watchos)
-* [Miscellaneous](#miscellaneous)
+    * [React Native](#react-native)
+    * [Xamarin](#xamarin)
+    * [watchOS](#watchos)
+* [Miscellaneous Communities](#miscellaneous-communities)
 * [Resources](#resources)
+    * [Articles](#articles)
+    * [Books](#books)
+    * [Miscellaneous Resources](#miscellaneous-resources)
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
 
@@ -438,8 +441,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/u/0/communities/104245651975268426012) - large and active group about PHP on Google+
 * [Quora](https://www.quora.com/PHP-programming-language-1) - ask and answer questions on Quora
 * Freenode:
-	* [#php](http://webchat.freenode.net/?channels=php) - active support IRC channel for PHP users
-	* [#phpc](http://webchat.freenode.net/?channels=phpc) - active community IRC channel for PHP users
+    * [#php](http://webchat.freenode.net/?channels=php) - active support IRC channel for PHP users
+    * [#phpc](http://webchat.freenode.net/?channels=phpc) - active community IRC channel for PHP users
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
@@ -648,8 +651,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=86481) - large and active group on Linked.in
 * [Freenode](http://irc.lc/freenode/android) - large and active IRC channel
 * Quora:
-	* [Android Applications](https://www.quora.com/Android-Applications) - topic about Android Applications
-	* [Android Operating System](https://www.quora.com/Android-operating-system) - topic about Android OS
+    * [Android Applications](https://www.quora.com/Android-Applications) - topic about Android Applications
+    * [Android Operating System](https://www.quora.com/Android-operating-system) - topic about Android OS
 
 [Back to top](#awesome-community)
 
@@ -781,20 +784,46 @@ Inspired by the `awesome-*` trend on GitHub.
 [Back to top](#awesome-community)
 
 
-## Miscellaneous
+## Miscellaneous Communities
 
-*Groups, communities and clubs of miscellaneous context types.*
+*Notable groups, communities and clubs of miscellaneous context types.*
 
 [Back to top](#awesome-community)
 
 
 ## Resources
 
-*Some reading and learning material how to build communities*
+*Some learning material for building community and what members and leaders of the best communities read and adopt.*
+
+### Articles
+
+*Awesome articles and blog posts about community, user groups, community management etc.*
+
+* [5 Ingredients for Building Community](http://designerfund.com/5-ingredients-for-building-community) - article, how a community of over 100 top designers including founders, leads and angels has been built.
+* [Is a code of conduct vital to the success of an open source community?](https://opensource.com/life/14/5/codes-of-conduct-open-source-communities)
+* [Of the community, not above the community](http://opensource.com/business/11/3/community-not-above-community)
+* [Steps to diversity in your open source group](http://opensource.com/life/14/6/steps-to-diversity-open-source-culture)
+* [Four types of open source communities](http://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)
+* [Best practices for community managers](http://opensource.com/business/13/12/five-community-management-tips)
+
+[Back to top](#awesome-community)
+
+
+### Books
+
+*In-depth reading material about community.*
+
+* [The Art of Community Online](http://www.artofcommunityonline.org/) - Book, Building the New Age of Participation, [PDF](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
+
+[Back to top](#awesome-community)
+
+
+### Miscellaneous Resources
+
+*Various types of resources - guides, videos and similar best practices.*
 
 * [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/)
-* [The Art of Community Online](http://www.artofcommunityonline.org/) - Book, Building the New Age of Participation, [PDF](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
-* [5 Ingredients for Building Community](http://designerfund.com/5-ingredients-for-building-community) - article, how a community of over 100 top designers including founders, leads and angels has been built
+* [Interview with Cal Evans](http://7php.com/php-interview-cal-evans/) - The undeniable icon of the PHP community.
 
 [Back to top](#awesome-community)
 
@@ -802,12 +831,12 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Looking for more lists like this?
 
 * Awesome lists:
-	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
-	* [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
-	* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
-	* [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
-	* [GetAwesomeness](http://getawesomeness.com/) - awesome lists
-	* [lists](https://github.com/jnv/lists) - awesome lists
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome lists
+    * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
+    * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
+    * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
+    * [GetAwesomeness](http://getawesomeness.com/) - awesome lists
+    * [lists](https://github.com/jnv/lists) - awesome lists
 * [awesome-answers](https://github.com/jugoncalves/awesome-answers) - List of inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-community](https://github.com/rafaecheve/Awesome-Community) - Repository about how to build communities online
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - List of awesome conferences
