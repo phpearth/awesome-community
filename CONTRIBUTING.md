@@ -3,14 +3,16 @@
 Contributing to this list is as simple as possible. You can open an [issue](https://github.com/peterkokot/awesome-community/issues)
 or open a pull request. Typos and grammatical corrections are perfectly fine as well!
 
+
 ## What makes community awesome?
 
-Here are some guidelines for community managers and administrators what makes community awesome:
-
-* Clear rules for everyone
-* Community should be large and active
-
 Communities listed here include programming, development and technical discussion channels, groups, support communities and similar resources.
+
+Here are some guidelines for community managers and administrators to make community awesome:
+
+* Clear rules for members of a community or a code of conduct.
+* Community should be large, vibrant and active
+
 
 ## Contributing procedure
 
