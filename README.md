@@ -843,7 +843,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
     * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
     * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
-    * [GetAwesomeness](http://getawesomeness.com/) - awesome lists
+    * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists](https://github.com/jnv/lists) - awesome lists
 * [awesome-answers](https://github.com/jugoncalves/awesome-answers) - List of inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-community](https://github.com/rafaecheve/Awesome-Community) - Repository about how to build communities online
