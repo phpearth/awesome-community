@@ -446,6 +446,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
+* [PHP Chat](https://phpchat.co) - A community of PHP Programmers from around the world, on Slack.
 
 [Back to top](#awesome-community)
 
