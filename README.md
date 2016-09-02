@@ -311,7 +311,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/groups?gid=70526) - large and active Linked.in group
 * [Quora](https://www.quora.com/Java-programming-language) - Java topics on Quora
 * [Freenode](http://webchat.freenode.net/?channels=java) - active and large Java IRC channel
-* [Local JUGs](https://www.java.net/jugs/java-user-groups) - get involved locally
+* [Local JUGs](https://java.net/projects/jugs) - get involved locally
 
 [Back to top](#awesome-community)
 
