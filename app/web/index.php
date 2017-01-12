@@ -7,8 +7,8 @@
         <meta name="author" content="Peter Kokot">
         <meta property="og:title" content="Awesome Community">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="http://awesome-community.com">
-        <meta property="og:image" content="http://awesome-community.com/images/community.png">
+        <meta property="og:url" content="https://awesome-community.com">
+        <meta property="og:image" content="https://awesome-community.com/images/community.png">
         <meta property="og:description" content="A curated list of awesome programming, development and similar technical support or discussion channels, groups, communities, resources and other shiny things.">
         <meta property="og:site_name" content="Awesome Community">
 

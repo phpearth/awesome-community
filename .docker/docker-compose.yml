@@ -1,0 +1,15 @@
+version: '2.1'
+
+services:
+  app:
+    container_name: awesomecommunity
+    build:
+      context: ../
+      dockerfile: ./.docker/app/Dockerfile
+    restart: always
+    networks:
+      - awesomecommunity
+
+networks:
+  awesomecommunity:
+    driver: bridge
