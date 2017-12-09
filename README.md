@@ -859,10 +859,14 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Contributing and License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community list as well. Big thanks to all current [contributors](https://github.com/peterkokot/awesome-community/graphs/contributors) who have helped build this Awesome Community list.
+You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community
+list as well. Big thanks to all current
+[contributors](https://github.com/php-earth/awesome-community/graphs/contributors)
+who have helped build this Awesome Community list.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Peter Kokot](https://github.com/petk) has
+waived all copyright and related or neighboring rights to this work.
 
 [Back to top](#awesome-community)
