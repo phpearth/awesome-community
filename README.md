@@ -44,7 +44,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 *Some important websites where cool developers hang out and give back to the community.*
 
-* [Hacker News](https://news.ycombinator.com) - Latest and in-depth technical news about hHacking, technology, security, cyber, vulnerabilities, privacy and similar technical discussions.
+* [Hackr.io](https://hackr.io/) - Programming community curated resource database and reading list.
+* [Hacker News](https://news.ycombinator.com) - Latest and in-depth technical news about Hacking, technology, security, cyber, vulnerabilities, privacy and similar technical discussions.
 * [Meetup](http://meetup.com) - Find Meetups and meet people in your local community who share your interests
 * [Quora](https://www.quora.com/) - Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community
 * [Reddit](http://reddit) - Reddit is an entertainment, social networking, and news website with lots of forums for developers.
@@ -69,6 +70,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/101939836280904288522) - large and active Google+ group
 * [Freenode](http://webchat.freenode.net/?channels=asm) - large and active IRC channel
 * [Quora](https://www.quora.com/Assembly-Language) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -103,6 +105,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=1627067) - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=c) - large and active IRC channel
 * [Quora](https://www.quora.com/C-programming-language) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
+
 
 [Back to top](#awesome-community)
 
@@ -116,6 +120,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/groups?gid=86782) - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=c++) - large and active IRC channel
 * [Quora](https://www.quora.com/C++-programming-language) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -129,6 +134,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/groups?gid=1058217) - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=clojure) - large and active IRC channel
 * [Quora](https://www.quora.com/Clojure-programming-language) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -217,6 +223,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora](https://www.quora.com/Elixir-programming-language) - topic on Quora
 * [Slack](https://elixir-slackin.herokuapp.com/) - officially suggested community on Slack
 * [Meetup](http://elixir.meetup.com/) - get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -270,6 +277,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora](https://www.quora.com/Go-programming-language) - topics about Go on Quora
 * [Freenode](http://webchat.freenode.net/?channels=go-nuts) - IRC channel for Go
 * [Local user groups](https://github.com/golang/go/wiki/GoUserGroups) - get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -297,6 +305,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora](https://www.quora.com/Haskell-programming-language) - topics about Haskell on Quora
 * [Freenode](http://webchat.freenode.net/?channels=haskell) - IRC channel for Haskell
 * [Local user groups](https://wiki.haskell.org/User_groups) - get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -311,6 +320,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora](https://www.quora.com/Java-programming-language) - Java topics on Quora
 * [Freenode](http://webchat.freenode.net/?channels=java) - active and large Java IRC channel
 * [Local JUGs](https://java.net/projects/jugs) - get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -324,6 +334,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=121615) - large and active group on Linked.in
 * [Quora](https://www.quora.com/JavaScript-programming-language) - JavaScript topics on Quora
 * [Freenode](http://webchat.freenode.net/?channels=javascript) - large and active IRC channel
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -337,6 +348,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=4896676) - Large and active group on Linked.in
 * [Quora](https://www.quora.com/AngularJS) - Topic on Quora
 * [Freenode](http://webchat.freenode.net/?channels=angularjs) - large and active IRC channel
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 
 #### Dojo Toolkit
@@ -363,6 +375,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+
 * [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website
 * [Meetup](http://jquery.meetup.com/) - Get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -377,6 +390,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/114822536557370957541) - Large and active group on Google+
 * [Quora](https://www.quora.com/React-JS-Library) - Ask and answer questions on Quora website
 * [Meetup](http://reactjs.meetup.com/) - Get involved locally
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 ### Julia
 
@@ -386,7 +400,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/) - large and active Google+ group
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Quora](https://www.quora.com/topic/Julia-programming-language) - topic on Quora
 
 [Back to top](#awesome-community)
 
@@ -446,6 +460,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
 * [PHP Chat](https://phpchat.co) - A community of PHP Programmers from around the world, on Slack.
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -462,6 +477,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [IRC](http://irc.lc/freenode/cakephp) - Large and active IRC channel
 * [Linked.in](https://www.linkedin.com/groups?gid=82040) - Large and active group on Linked.in
 * [Quora](https://www.quora.com/CakePHP) - Topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -477,6 +493,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](https://webchat.freenode.net/?channels=laravel) - Active IRC channel for Laravel support
 * [Linked.in](https://www.linkedin.com/grp/home?gid=4419933)
 * [Quora](https://www.quora.com/Laravel) - Laravel topics on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -531,6 +548,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Python
 
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/python) - Python support channel
 * [Reddit](https://www.reddit.com/r/python) - Python discussions on Reddit
 * [Facebook](https://fb.com/groups/pythonears/) - large and active group on Facebook
@@ -551,6 +569,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -563,6 +582,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/101878695540653445908) - large and active group on Google+
 * [Freenode](http://webchat.freenode.net/?channels=ruby) - IRC channel
 * [Quora](https://www.quora.com/Ruby-programming-language) - Ruby topics on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -576,6 +596,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](http://webchat.freenode.net/?channels=RubyOnRails) - large and active IRC channel
 * [Linked.in](https://www.linkedin.com/grp/home?gid=22413) - large and active group on Linked.in
 * [Quora](https://www.quora.com/Ruby-on-Rails-web-framework) - Ror topics on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -589,6 +610,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -601,7 +623,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/) - large and active Google+ group
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Quora](https://www.quora.com/topic/Scala-programming-language-1) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -615,6 +638,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Freenode](http://webchat.freenode.net/?channels=swift-lang) - IRC channel for Swift
 * [Linked.in](https://www.linkedin.com/grp/home?gid=8119756) - large and active Swift group on Linked.in
 * [Quora](https://www.quora.com/Apple-Swift-programming-language) - Swift topics on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -628,6 +652,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -644,6 +669,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=40949) - large and active group on Linked.in
 * [Freenode](http://irc.lc/freenode/asp.net) - large and active IRC channel
 * [Quora](https://www.quora.com/NET-Framework) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
@@ -654,6 +680,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/android) - support on Stack Overflow
 * [Reddit](http://reddit.com/r/android) - discussion forum on Reddit
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 * [Facebook](https://fb.com/groups/) - large and active Facebook group
 * [Google+](https://plus.google.com/communities/100821581565823788798) - large and active Google+ group
 * [Linked.in](https://www.linkedin.com/grp/home?gid=86481) - large and active group on Linked.in
@@ -751,6 +778,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/groups?gid=2906459) - large and active group on Linked.in
 * [Freenode](http://irc.lc/freenode/Node.js) - large and active IRC channel
 * [Quora](https://www.quora.com/Node-js) - topic on Quora
+* [Hackr.io](https://hackr.io/) - recommended learning resources
 
 [Back to top](#awesome-community)
 
