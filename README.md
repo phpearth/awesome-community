@@ -833,6 +833,7 @@ Inspired by the `awesome-*` trend on GitHub.
 *Various types of resources - guides, videos and similar best practices.*
 
 * [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/)
+* [Hackr.io](https://hackr.io/) - A curated resource of programming courses, tutorials, and communities.
 * [Interview with Cal Evans](http://7php.com/php-interview-cal-evans/) - The undeniable icon of the PHP community.
 
 [Back to top](#awesome-community)
