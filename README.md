@@ -263,7 +263,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ### Go
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/go) - Go support on Stack Overflow
-* [Reddit](https://www.reddit.com/r/haskell) - Go discussion forum on Reddit
+* [Reddit](https://www.reddit.com/r/golang/) - Go discussion forum on Reddit
 * [Facebook](https://fb.com/groups/206770519471402) - large and active Go group on Facebook
 * [Google+](https://plus.google.com/communities/114112804251407510571) - large and active Go group on G+
 * [Linked.in](https://www.linkedin.com/groups?gid=2524765) - large and active Go group on Linked.in
