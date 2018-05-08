@@ -1,7 +1,7 @@
 # Contributing guidelines to Awesome Community
 
 Contributing to this list is as simple as possible. You can open an
-[issue](https://github.com/php-earth/awesome-community/issues)
+[issue](https://github.com/phpearth/awesome-community/issues)
 or open a pull request. Typos and grammatical corrections are perfectly fine as
 well!
 
@@ -23,7 +23,7 @@ community awesome:
 * Set up your repository and set a remote branch for future updates
 
   ```bash
-  git add remote upstream git://github.com/php-earth/awesome-community.git
+  git add remote upstream git://github.com/phpearth/awesome-community.git
   git config branch.master.remote upstream
   ```
 

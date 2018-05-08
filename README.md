@@ -6,7 +6,7 @@ or discussion channels, groups, communities, resources and other shiny things.
 Inspired by the `awesome-*` trend on GitHub.
 
 <div align="center">
-    <img width="700" src="https://raw.githubusercontent.com/php-earth/awesome-community/master/.github/community.png" alt="awesome-community">
+    <img width="700" src="https://raw.githubusercontent.com/phpearth/awesome-community/master/.github/community.png" alt="awesome-community">
 </div>
 
 ## Index
@@ -862,7 +862,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community
 list as well. Big thanks to all current
-[contributors](https://github.com/php-earth/awesome-community/graphs/contributors)
+[contributors](https://github.com/phpearth/awesome-community/graphs/contributors)
 who have helped build this Awesome Community list.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
