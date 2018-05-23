@@ -224,12 +224,13 @@ Inspired by the `awesome-*` trend on GitHub.
 ### Elm
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/elm) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
-* [Facebook](https://fb.com/groups/) - large and active Facebook group
-* [Google+](https://plus.google.com/communities/) - large and active Google+ group
-* [Linked.in]() - large and active group on Linked.in
-* [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Reddit](http://reddit.com/r/elm) - discussion forum on Reddit
+* [Facebook](https://www.facebook.com/groups/learnelm) - large and active Facebook group
+* [Google+](https://plus.google.com/communities/105099287679008690846) - large and active Google+ group
+* [Linked.in](https://www.linkedin.com/groups/8566880/) - large and active group on Linked.in
+* [Linked.in](https://www.linkedin.com/groups/8537736/) - large and active group on Linked.in
+* [Freenode](http://webchat.freenode.net/?channels=elm) - large and active IRC channel
+* [Quora](https://www.quora.com/topic/Elm-programming-language) - topic on Quora
 
 [Back to top](#awesome-community)
 
