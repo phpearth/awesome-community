@@ -243,7 +243,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google+](https://plus.google.com/communities/) - large and active Google+ group
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
-* [Quora]() - topic on Quora
+* [Quora](https://www.quora.com/topic/Erlang-programming-language) - topic on Quora
 
 [Back to top](#awesome-community)
 
