@@ -237,8 +237,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ### Erlang
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/erlang) - support on Stack Overflow
+* [Reddit](https://www.reddit.com/r/erlang/) - discussion forum on Reddit
 * [Facebook](https://fb.com/groups/) - large and active Facebook group
 * [Google+](https://plus.google.com/communities/) - large and active Google+ group
 * [Linked.in]() - large and active group on Linked.in
