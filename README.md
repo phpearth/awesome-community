@@ -447,6 +447,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
 * [PHP Chat](https://phpchat.co) - A community of PHP Programmers from around the world, on Slack.
+* Slack Workspaces:
+    * [PHP-UG](https://github.com/php-ug/php.ug/wiki/SlackChannel-Directory) - An international meeting-point for the PHP-Community.
 
 [Back to top](#awesome-community)
 
