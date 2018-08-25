@@ -4,11 +4,11 @@ links:
     link__1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/d"
+        url: "https://stackoverflow.com/questions/tagged/d"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/d_language"
+        url: "https://www.reddit.com/r/d_language"
     link_3:
         title: "Google+"
         url: "https://plus.google.com/communities/100033468228217743303"

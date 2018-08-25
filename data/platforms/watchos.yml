@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/apple-watch"
+        url: "https://stackoverflow.com/questions/tagged/apple-watch"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -19,5 +19,5 @@ links:
         description: "Large and active IRC channel"
     link_5:
         title: "Quora"
-        url: "http://www.quora.com/Apple-Watch-2"
+        url: "https://www.quora.com/topic/Apple-Watch-2"
         description: "Topic on Quora"

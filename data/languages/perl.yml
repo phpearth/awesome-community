@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/perl"
+        url: "https://stackoverflow.com/questions/tagged/perl"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -38,5 +38,5 @@ links:
         description: "Topic on Quora"
     link_8:
         title: "Meetup"
-        url: "http://perl.meetup.com/"
+        url: "https://www.meetup.com/topics/perl/"
         description: "Meet up with Perl users near you"

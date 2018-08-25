@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/clojure"
+        url: "https://stackoverflow.com/questions/tagged/clojure"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/clojure"
+        url: "https://www.reddit.com/r/clojure"
     link_3:
         title: "Facebook"
         description: "Large and active Facebook group"
@@ -31,5 +31,5 @@ links:
         description: "Topic on Quora"
     link_8:
         title: "Meetup"
-        url: "http://clojure.meetup.com/"
+        url: "https://www.meetup.com/topics/clojure/"
         description: "Meet up with Clojure users near you"

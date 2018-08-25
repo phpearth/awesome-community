@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "PHP support on StackOverflow"
-        url: "http://stackoverflow.com/questions/tagged/php"
+        url: "https://stackoverflow.com/questions/tagged/php"
     link_2:
         title: "Reddit"
         description: "Ask and answer questions, discussion"
-        url: "http://www.reddit.com/r/PHP"
+        url: "https://www.reddit.com/r/PHP"
     link_3:
         title: "Facebook"
         description: "Large and active group on Facebook"
@@ -42,7 +42,7 @@ links:
         description: "Discussion group on Linked.in for PHP developers"
     link_9:
         title: "PHP Classes"
-        url: "http://www.phpclasses.org/discuss/"
+        url: "https://www.phpclasses.org/discuss/"
         description: "PHP specialists forum"
 items:
     item_1:
@@ -51,11 +51,11 @@ items:
         links:
             link_1:
                 title: "Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/cakephp"
+                url: "https://stackoverflow.com/questions/tagged/cakephp"
                 description: "Support on StackOverflow"
             link_2:
                 title: "Reddit"
-                url: "http://www.reddit.com/r/cakephp"
+                url: "https://www.reddit.com/r/cakephp"
                 description: "Ask and answer questions, discussion"
             link_3:
                 title: "Facebook"
@@ -87,11 +87,11 @@ items:
         links:
             link_1:
                 title: "Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/laravel"
+                url: "https://stackoverflow.com/questions/tagged/laravel"
                 description: "Laravel support on StackOverflow"
             link_2:
                 title: "Reddit"
-                url: "http://www.reddit.com/r/laravel"
+                url: "https://www.reddit.com/r/laravel"
                 description: "Ask and answer questions, discussion"
             link_3:
                 title: "Google+"
@@ -102,7 +102,7 @@ items:
                 links:
                     link_1:
                         title: "Laravel.io"
-                        url: "http://laravel.io/forum"
+                        url: "https://laravel.io/forum"
                         description: "Laravel.io forums"
                     link_2:
                         title: "Laracasts discussions"
@@ -125,11 +125,11 @@ items:
         links:
             link_1:
                 title: "Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/symfony"
+                url: "https://stackoverflow.com/questions/tagged/symfony"
                 description: "Symfony support on StackOverflow"
             link_2:
                 title: "Reddit"
-                url: "http://www.reddit.com/r/symfony"
+                url: "https://www.reddit.com/r/symfony"
                 description: "Ask and answer questions, discussion"
             link_3:
                 title: "Facebook 1"
@@ -180,7 +180,7 @@ items:
         links:
             link_1:
                 title: "Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/zend-framework"
+                url: "https://stackoverflow.com/questions/tagged/zend-framework"
                 description: "Support on StackOverflow"
             link_2:
                 title: "Reddit"
@@ -208,5 +208,5 @@ items:
                 description: "Zend Framework topics on Quora"
             link_8:
                 title: "User Groups"
-                url: "http://framework.zend.com/participate/user-groups/"
+                url: "https://framework.zend.com/participate/user-groups"
                 description: "Zend Framework usergroups"

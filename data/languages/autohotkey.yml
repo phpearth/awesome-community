@@ -4,15 +4,15 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/autohotkey"
+        url: "https://stackoverflow.com/questions/tagged/autohotkey"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
         url: "https://www.reddit.com/r/autohotkey"
     link_3:
-	title: "Linked.in"
-	description: "Large and active group on Linked.in"
-	url: "https://www.linkedin.com/grp/home?gid=3744090"
+    title: "Linked.in"
+    description: "Large and active group on Linked.in"
+    url: "https://www.linkedin.com/grp/home?gid=3744090"
     link_4:
         title: "Facebook"
         url: "https://fb.com/groups/40173965319/"

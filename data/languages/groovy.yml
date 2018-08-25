@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/groovy"
+        url: "https://stackoverflow.com/questions/tagged/groovy"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"

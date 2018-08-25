@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/r"
+        url: "https://stackoverflow.com/questions/tagged/r"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -27,7 +27,7 @@ links:
         description: "Topic on Quora"
     link_7:
         title: "Meetup"
-        url: "http://r-users-group.meetup.com/"
+        url: "https://www.meetup.com/topics/r-project-for-statistical-computing/"
         description: "Meet up with Rust users near you"
     link_8:
         title: "Conferences"

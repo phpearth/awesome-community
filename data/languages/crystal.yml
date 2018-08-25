@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/crystal_programming"
+        url: "https://stackoverflow.com/questions/tagged/crystal_programming"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/crystal_programming"
+        url: "https://www.reddit.com/r/crystal_programming"
     link_3:
         title: "Google group"
         url: "https://groups.google.com/forum/?fromgroups#!forum/crystal-lang"

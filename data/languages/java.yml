@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/java"
+        url: "https://stackoverflow.com/questions/tagged/java"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://www.reddit.com/r/java"
+        url: "https://www.reddit.com/r/java"
     link_3:
         title: "Facebook"
         description: "Large and active Facebook group"

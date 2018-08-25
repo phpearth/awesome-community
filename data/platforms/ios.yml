@@ -1,10 +1,10 @@
 title: "iOS"
-description: 'Community organized by Apple''s <a href="http://www.apple.com/ios/">iOS</a> mobile operating system interest.'
+description: 'Community organized by Apple''s <a href="https://www.apple.com/ios/ios-11/">iOS</a> mobile operating system interest.'
 links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/ios"
+        url: "https://stackoverflow.com/questions/tagged/ios"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -18,9 +18,9 @@ links:
         url: "https://plus.google.com/communities/112026628790708717979"
         description: "Large and active Google+ group"
     link_5:
-    	title: "Linked.in"
-    	url: "https://www.linkedin.com/grp/home?gid=121874"
-    	description: "Large and active group on Linked.in"
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=121874"
+        description: "Large and active group on Linked.in"
     link_6:
         title: "IRC"
         url: "http://irc.lc/freenode/iphonedev"

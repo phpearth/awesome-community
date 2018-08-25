@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/javascript"
+        url: "https://stackoverflow.com/questions/tagged/javascript"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://www.reddit.com/r/JavaScript"
+        url: "https://www.reddit.com/r/JavaScript"
     link_3:
         title: "Facebook"
         description: "Large and active Facebook group"
@@ -35,11 +35,11 @@ links:
         description: "Get involved locally"
     link_9:
         title: "Meetup"
-        url: "http://javascript.meetup.com/"
+        url: "https://www.meetup.com/topics/javascript/"
         description: "Get involved locally"
     link_10:
         title: "Conferences"
-        url: "http://jsconf.com/"
+        url: "https://jsconf.com/"
         description: "Conferences for the JavaScript community"
 items:
     item_1:
@@ -49,11 +49,11 @@ items:
             link_1:
                 title: "Stack Overflow"
                 description: "Support on Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/angularjs"
+                url: "https://stackoverflow.com/questions/tagged/angularjs"
             link_2:
                 title: "Reddit"
                 description: "Discussion forum on Reddit"
-                url: "http://www.reddit.com/r/angularjs"
+                url: "https://www.reddit.com/r/angularjs"
             link_3:
                 title: "Facebook"
                 description: "Large and active Facebook group"
@@ -81,11 +81,11 @@ items:
             link_1:
                 title: "Stack Overflow"
                 description: "Support on Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/dojo"
+                url: "https://stackoverflow.com/questions/tagged/dojo"
             link_2:
                 title: "Reddit"
                 description: "Discussion forum on Reddit"
-                url: "http://reddit.com/r/dojo"
+                url: "https://www.reddit.com/r/dojo"
             link_3:
                 title: "Facebook"
                 description: "Large and active Facebook group"
@@ -113,7 +113,7 @@ items:
             link_1:
                 title: "Stack Overflow"
                 description: "Support on Stack Overflow"
-                url: "http://stackoverflow.com/tags/jquery"
+                url: "https://stackoverflow.com/tags/jquery"
             link_2:
                 title: "Reddit"
                 description: "Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects"
@@ -144,7 +144,7 @@ items:
                 description: "Official forums"
             link_9:
                 title: "Meetup"
-                url: "http://jquery.meetup.com"
+                url: "https://www.meetup.com/topics/jquery/"
                 description: "Get involved locally"
     item_4:
         title: "React"
@@ -153,7 +153,7 @@ items:
             link_1:
                 title: "Stack Overflow"
                 description: "Support on Stack Overflow"
-                url: "http://stackoverflow.com/tags/reactjs"
+                url: "https://stackoverflow.com/tags/reactjs"
             link_2:
                 title: "Reddit"
                 description: "Discussion on Reddit"
@@ -180,5 +180,5 @@ items:
                 description: "Topic on Quora"
             link_8:
                 title: "Meetup"
-                url: "http://reactjs.meetup.com/"
+                url: "https://www.meetup.com/topics/reactjs/"
                 description: "Get involved locally"
