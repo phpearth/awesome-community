@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/coldfusion"
+        url: "https://stackoverflow.com/questions/tagged/coldfusion"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/coldfusion"
+        url: "https://www.reddit.com/r/coldfusion"
     link_3:
         title: "Facebook"
         description: "Large and active Facebook group"
@@ -31,5 +31,5 @@ links:
         description: "Topic on Quora"
     link_8:
         title: "Meetup"
-        url: "http://coldfusion.meetup.com/"
+        url: "https://www.meetup.com/topics/coldfusion/"
         description: "Meet up with Coldfusion users near you"

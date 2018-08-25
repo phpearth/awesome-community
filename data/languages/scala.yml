@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/scala"
+        url: "https://stackoverflow.com/questions/tagged/scala"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -19,7 +19,7 @@ links:
         description: "Large and active Google+ group"
     link_5:
         title: "Google group"
-        url: "http://groups.google.com/group/scala-user"
+        url: "https://groups.google.com/forum/#!forum/scala-user"
         description: "Main forum for questions and discussions, including beginner questions"
     link_6:
         title: "IRC"
@@ -39,9 +39,9 @@ links:
         description: "Find Scala group near you"
     link_10:
         title: "Meetup"
-        url: "http://scala.meetup.com/"
+        url: "https://www.meetup.com/topics/scala/"
         description: "Meet up with Scala users near you"
     link_11:
         title: "Conferences"
-        url: "http://www.scala-lang.org/events/"
+        url: "https://www.scala-lang.org/events/"
         description: "Find Scala conference"

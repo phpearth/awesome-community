@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/ruby"
+        url: "https://stackoverflow.com/questions/tagged/ruby"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -27,7 +27,7 @@ links:
         description: "Topic on Quora"
     link_7:
         title: "Meetup"
-        url: "http://ruby.meetup.com/"
+        url: "https://www.meetup.com/topics/ruby/"
         description: "Meet up with Ruby users near you"
 items:
     item_1:
@@ -37,7 +37,7 @@ items:
             link_1:
                 title: "Stack Overflow"
                 description: "Support on Stack Overflow"
-                url: "http://stackoverflow.com/questions/tagged/ruby-on-rails"
+                url: "https://stackoverflow.com/questions/tagged/ruby-on-rails"
             link_2:
                 title: "Reddit"
                 description: "Discussion forum on Reddit"

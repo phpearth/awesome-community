@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/delphi"
+        url: "https://stackoverflow.com/questions/tagged/delphi"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/delphi"
+        url: "https://www.reddit.com/r/delphi"
     link_3:
         title: "Facebook"
         description: "Large and active Facebook group"

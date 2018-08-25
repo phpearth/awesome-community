@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/common-lisp"
+        url: "https://stackoverflow.com/questions/tagged/common-lisp"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/common_lisp"
+        url: "https://www.reddit.com/r/common_lisp"
     link_3:
         title: "Google+"
         url: "https://plus.google.com/communities/101016130241925650833"
@@ -27,5 +27,5 @@ links:
         description: "Topic on Quora"
     link7:
         title: "Meetup"
-        url: "http://lisp.meetup.com/"
+        url: "https://www.meetup.com/topics/lisp/"
         description: "Meet up with CommonLisp users near you"

@@ -4,7 +4,7 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/erlang"
+        url: "https://stackoverflow.com/questions/tagged/erlang"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"

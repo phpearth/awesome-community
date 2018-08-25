@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/linux"
+        url: "https://stackoverflow.com/questions/tagged/linux"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://www.reddit.com/r/linux"
+        url: "https://www.reddit.com/r/linux"
     link_3:
         title: "Facebook"
         url: "https://fb.com/groups/GNUAndLinux/"
@@ -18,9 +18,9 @@ links:
         url: "https://plus.google.com/communities/109254488709825102030"
         description: "Large and active Google+ group"
     link_5:
-    	title: "Linked.in"
-    	url: "https://www.linkedin.com/grp/home?gid=65688"
-    	description: "Large and active group on Linked.in"
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=65688"
+        description: "Large and active group on Linked.in"
     link_6:
         title: "IRC"
         url: "http://irc.lc/freenode/linux"

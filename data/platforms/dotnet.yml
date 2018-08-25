@@ -1,10 +1,10 @@
 title: ".NET"
-description: 'Community organized by <a href="http://www.microsoft.com/net">.NET</a> framework interest.'
+description: 'Community organized by <a href="https://www.microsoft.com/net">.NET</a> framework interest.'
 links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/.net"
+        url: "https://stackoverflow.com/questions/tagged/.net"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
@@ -18,9 +18,9 @@ links:
         url: "https://plus.google.com/communities/103596470409180466570"
         description: "Large and active Google+ group"
     link_5:
-    	title: "Linked.in"
-    	url: "https://www.linkedin.com/grp/home?gid=40949"
-    	description: "Large and active group on Linked.in"
+        title: "Linked.in"
+        url: "https://www.linkedin.com/grp/home?gid=40949"
+        description: "Large and active group on Linked.in"
     link_6:
         title: "IRC"
         url: "http://irc.lc/freenode/asp.net"

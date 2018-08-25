@@ -1,10 +1,10 @@
 title: "Cordova"
-description: 'Community organized by <a href="http://cordova.apache.org/">Cordova</a> - open-source, cross-device mobile development platform interest.'
+description: 'Community organized by <a href="https://cordova.apache.org/">Cordova</a> - open-source, cross-device mobile development platform interest.'
 links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/cordova"
+        url: "https://stackoverflow.com/questions/tagged/cordova"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"

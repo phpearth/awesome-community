@@ -4,11 +4,11 @@ links:
     link_1:
         title: "Stack Overflow"
         description: "Support on Stack Overflow"
-        url: "http://stackoverflow.com/questions/tagged/elixir"
+        url: "https://stackoverflow.com/questions/tagged/elixir"
     link_2:
         title: "Reddit"
         description: "Discussion forum on Reddit"
-        url: "http://reddit.com/r/elixir"
+        url: "https://www.reddit.com/r/elixir"
     link_3:
         title: "Google+"
         url: "https://plus.google.com/communities/115770991058707869622"
@@ -35,5 +35,5 @@ links:
         description: "Officially suggested community on Slack"
     link_9:
         title: "Meetup"
-        url: "http://elixir.meetup.com/"
+        url: "https://www.meetup.com/topics/elixir/"
         description: "Get involved locally"
