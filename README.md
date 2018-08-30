@@ -593,6 +593,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
+* Slack Workspaces:
+    * [Rust on Slack](https://rust-slack.herokuapp.com/) - Rust workspace on Slack
 
 [Back to top](#awesome-community)
 
