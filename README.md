@@ -443,6 +443,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * Freenode:
     * [#php](http://webchat.freenode.net/?channels=php) - active support IRC channel for PHP users
     * [#phpc](http://webchat.freenode.net/?channels=phpc) - active community IRC channel for PHP users
+    * [#phpfig](http://webchat.freenode.net/?channels=phpfig) - active community IRC channel for Framework Interop Group
 * [php.ug](http://php.ug) - map of local PHP user groups
 * [Linked.in](https://www.linkedin.com/grp/home?gid=42140) - discussion group on Linked.in for PHP developers
 * [PHP Classes](http://www.phpclasses.org/discuss/) - PHP specialists forum
