@@ -596,6 +596,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Quora]() - topic on Quora
 * Slack Workspaces:
     * [Rust on Slack](https://rust-slack.herokuapp.com/) - Rust workspace on Slack
+* Gitter communities:
+    * [rust](https://gitter.im/rust-lang/rust) - Official room for rust lang.
 
 [Back to top](#awesome-community)
 
