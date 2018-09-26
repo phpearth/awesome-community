@@ -29,3 +29,7 @@ links:
         title: "Stack Overflow"
         description: "A language-independent collaboratively edited question and answer site for programmers"
         url: "https://stackoverflow.com/"
+    changelog:
+        title: "Changelog Developer Community"
+        description: "Changelog is news and podcasts for developers. Join the community Slack for great discussions."
+        url: "https://changelog.com/community"
