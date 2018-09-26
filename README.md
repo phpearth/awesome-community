@@ -51,6 +51,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Sitepoint Forums](http://community.sitepoint.com/) - Sitepoint community forums for developers
 * [Slack](http://slack.com/) - Platform for team communication: everything in one place, instantly searchable and available
 * [Stack Overflow](http://stackoverflow.com) - A language-independent collaboratively edited question and answer site for programmers
+* [Changelog Developer Community](https://changelog.com/community) - Changelog is news and podcasts for developers. Join the community Slack for great discussions.
 
 [Back to top](#awesome-community)
 
