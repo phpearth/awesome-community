@@ -864,6 +864,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - List of open companies
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) - List of communities about web development and design that are powered by [Slack](http://slack.com/).
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - A collection of awesome resources about public speaking
+* [belarusian-it-communities](https://github.com/gleb-kosteiko/belarusian-it-communities) - List of belarusian IT communities
 
 [Back to top](#awesome-community)
 
