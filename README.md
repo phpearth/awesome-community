@@ -45,6 +45,7 @@ Inspired by the `awesome-*` trend on GitHub.
 *Some important websites where cool developers hang out and give back to the community.*
 
 * [Hacker News](https://news.ycombinator.com) - Latest and in-depth technical news about hacking, technology, security, cyber, vulnerabilities, privacy and similar technical discussions.
+* [Hashnode](https://hashnode.com/) - Hashnode is one of the fastest-growing networks of software developers with more than 500K+ monthly active developers from 180+ countries worldwide. Hashnode is empowering developers to tell their stories and help them grow in their career.
 * [Meetup](https://meetup.com) - Find Meetups and meet people in your local community who share your interests.
 * [Quora](https://www.quora.com/) - Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community.
 * [Reddit](https://reddit) - Reddit is an entertainment, social networking, and news website with lots of forums for developers.
