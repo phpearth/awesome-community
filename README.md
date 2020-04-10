@@ -53,6 +53,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Slack](https://slack.com/) - Platform for team communication: everything in one place, instantly searchable and available.
 * [Stack Overflow](https://stackoverflow.com) - A language-independent collaboratively edited question and answer site for programmers
 * [Changelog Developer Community](https://changelog.com/community) - Changelog is news and podcasts for developers. Join the community Slack for great discussions.
+* [Webwide](https://webwide.io) - Webwide is an old-school forum for new-school web developers & designers.
 
 [Back to top](#awesome-community)
 
