@@ -759,6 +759,7 @@ Inspired by the `awesome-*` trend on GitHub.
 *Notable groups, communities and clubs of miscellaneous context types.*
 
 * [OpenSourceDesign.net](http://opensourcedesign.net/) - A community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
+* [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners, decision-makers and C-level IT professionals
 
 [Back to top](#awesome-community)
 
