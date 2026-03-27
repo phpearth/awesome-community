@@ -556,7 +556,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ### Rust
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/) - support on Stack Overflow
-* [Reddit](http://reddit.com/r/) - discussion forum on Reddit
+* [Reddit](https://reddit.com/r/rust) - discussion forum on Reddit
 * [Facebook](https://fb.com/groups/) - large and active Facebook group
 * [Linked.in]() - large and active group on Linked.in
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
